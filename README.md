@@ -1,6 +1,4 @@
-# Marketable IT Skills
-
-Project Tasks Repository
+# Marketable IT Skills - Project Tasks Repository
 
 ## Project Tasks
 
