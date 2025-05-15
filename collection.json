@@ -1,10 +1,8 @@
-[
-  {
-    "name": "Design & Implementation: Promo Website",
-    "description": "",
-    "url": "https://github.com/marketable-it-skills/es2023-s17-module-a",
-    "competition": "EuroSkills Gdansk 2023",
-    "category": "Web Design",
-    "tags": ["HTML", "CSS", "JavaScript"]
-  }
-]
+{
+  "name": "Design & Implementation: Promo Website",
+  "description": "",
+  "url": "https://github.com/marketable-it-skills/es2023-s17-module-a",
+  "skillDomains": ["Web Technologies"],
+  "competition": "EuroSkills Gdansk 2023",
+  "tags": ["HTML", "CSS", "JavaScript"]
+}
