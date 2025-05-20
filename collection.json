@@ -3,7 +3,7 @@
     "name": "ES2023 S17 - Module A",
     "displayName": "Design & Implementation: Promo Website",
     "description": "This project involves creating a static, responsive website using only HTML and CSS, based on a client-provided structure and content. It must include four pages, follow accessibility (WCAG) and SEO standards, and work across mobile, tablet, and desktop viewports.",
-    "url": "https://github.com/marketable-it-skills/es2023-s17-module-a",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_a-design_and_implementation",
     "skillDomains": ["Web Technologies"],
     "competition": "EuroSkills Gdansk 2023",
     "tags": ["HTML", "CSS", "JavaScript"]
