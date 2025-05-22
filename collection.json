@@ -16,5 +16,18 @@
     "skillDomains": ["Web Technologies"],
     "competition": "EuroSkills Gdansk 2023",
     "tags": ["SSR", "PHP", "Laravel", "Node.js", "Next.js", "MySQL"]
-  }
+  }, 
+  {
+"id": 1,
+"name": "Taitaja S17 - Module B",
+"displayName": "Implementing the Admin Panel",
+"description": "The competitor’s task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
+"url": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel.git",
+"skillDomainsIds": [1],
+"skillDomains": ["Web Technologies"],
+"languages": ["EN", "FI"],
+"competition": "Taitaja2025",
+"technologies": ["HTML", "CSS", "PHP"],
+"tags": ["backend", "implementation", "frontend", "Taitaja" ]
+}
 ]
