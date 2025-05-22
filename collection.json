@@ -4,30 +4,61 @@
     "displayName": "Design & Implementation: Promo Website",
     "description": "This project involves creating a static, responsive website using only HTML and CSS, based on a client-provided structure and content. It must include four pages, follow accessibility (WCAG) and SEO standards, and work across mobile, tablet, and desktop viewports.",
     "url": "https://github.com/marketable-it-skills/s17-es2023-module_a-design_and_implementation",
-    "skillDomains": ["Web Technologies"],
+    "skillDomains": [
+      "Web Technologies"
+    ],
     "competition": "EuroSkills Gdansk 2023",
-    "tags": ["HTML", "CSS", "JavaScript"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
   },
   {
     "name": "ES2023 S17 - Module B",
     "displayName": "Dynamic website with server-side rendering",
     "description": "This project involves creating a dynamic website using server-side rendering techniques.",
     "url": "https://github.com/marketable-it-skills/s17-es2023-module_b-dynamic_website_with_server_side_rendering",
-    "skillDomains": ["Web Technologies"],
+    "skillDomains": [
+      "Web Technologies"
+    ],
     "competition": "EuroSkills Gdansk 2023",
-    "tags": ["SSR", "PHP", "Laravel", "Node.js", "Next.js", "MySQL"]
-  }, 
+    "tags": [
+      "SSR",
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "Next.js",
+      "MySQL"
+    ]
+  },
   {
-"id": 1,
-"name": "Taitaja S17 - Module B",
-"displayName": "Implementing the Admin Panel",
-"description": "The competitor’s task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
-"url": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel.git",
-"skillDomainsIds": [1],
-"skillDomains": ["Web Technologies"],
-"languages": ["EN", "FI"],
-"competition": "Taitaja2025",
-"technologies": ["HTML", "CSS", "PHP"],
-"tags": ["backend", "implementation", "frontend", "Taitaja" ]
-}
+    "id": 1,
+    "name": "Taitaja S17 - Module B",
+    "displayName": "Implementing the Admin Panel",
+    "description": "The competitor’s task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
+    "url": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel.git",
+    "skillDomainsIds": [
+      1
+    ],
+    "skillDomains": [
+      "Web Technologies"
+    ],
+    "languages": [
+      "EN",
+      "FI"
+    ],
+    "competition": "Taitaja2025",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "PHP"
+    ],
+    "tags": [
+      "backend",
+      "implementation",
+      "frontend",
+      "Taitaja"
+    ]
+  }
 ]
