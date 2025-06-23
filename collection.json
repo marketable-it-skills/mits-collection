@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "ES2023 S17 - Module A",
     "displayName": "AI Services Promo Website",
     "description": "This project involves creating a static, responsive website using only HTML and CSS, based on a client-provided structure and content. It must include four pages, follow accessibility (WCAG) and SEO standards, and work across mobile, tablet, and desktop viewports.",
@@ -21,6 +22,7 @@
     "tags": ["frontend", "design implementation", "design"]
   },
   {
+    "id": 2,
     "name": "ES2023 S17 - Module B",
     "displayName": "Dynamic website with server-side rendering",
     "description": "This project involves creating a dynamic website using server-side rendering techniques.",
@@ -42,7 +44,7 @@
     "tags": ["SSR", "admin", "backend"]
   },
   {
-    "id": 1,
+    "id": 3,
     "name": "Taitaja S17 - Module B",
     "displayName": "Implementing the Admin Panel",
     "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
@@ -63,5 +65,28 @@
     ],
     "technologies": ["HTML", "CSS", "PHP"],
     "tags": ["backend", "implementation", "frontend", "Taitaja"]
+  },
+  {
+    "id": 4,
+    "name": "WS2024 S17 - Module B",
+    "displayName": "Products Management",
+    "description": "We are going to create a management system for an office administrator (as known as \"admin\") to manage some made-in-France products.",
+    "url": "https://github.com/marketable-it-skills/s17-es2024-module_b-product-management",
+    "skillDomainIds": [1],
+    "languages": ["EN"],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": ""
+      }
+    ],
+    "technologies": ["HTML", "PHP", "Node.js"],
+    "tags": ["HTML", "CSS", "SSR", "JavaScript", "PHP", "Laravel", "Next.js"]
   }
 ]
