@@ -16,5 +16,14 @@
     "skillDomains": ["Web Technologies"],
     "competition": "EuroSkills Gdansk 2023",
     "tags": ["SSR", "PHP", "Laravel", "Node.js", "Next.js", "MySQL"]
+  },
+  {
+    "name": "WS2024 S17 - Module B",
+    "displayName": "Products Management",
+    "description": "We are going to create a management system for an office administrator (as known as \"admin\") to manage some made-in-France products.",
+    "url": "https://github.com/marketable-it-skills/s17-es2024-module_b-product-management",
+    "skillDomains": ["Web Technologies"],
+    "competition": "WorldSkills Lyon 2024",
+    "tags": ["HTML", "CSS", "SSR", "JavaScript", "PHP", "Laravel", "Next.js"]
   }
 ]
