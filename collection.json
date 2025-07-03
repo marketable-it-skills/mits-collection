@@ -5,9 +5,7 @@
     "displayName": "AI Services Promo Website",
     "description": "This project involves creating a static, responsive website using only HTML and CSS, based on a client-provided structure and content. It must include four pages, follow accessibility (WCAG) and SEO standards, and work across mobile, tablet, and desktop viewports.",
     "url": "https://github.com/marketable-it-skills/s17-es2023-module_a-design_and_implementation",
-    "skillDomainIds": [
-      1
-    ],
+    "skillDomainIds": [1],
     "competition": "EuroSkills Gdansk 2023",
     "estTime": 4,
     "authors": [
@@ -20,16 +18,8 @@
         "url": "https://www.linkedin.com/in/sebastian-haeni/"
       }
     ],
-    "technologies": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "tags": [
-      "frontend",
-      "design implementation",
-      "design"
-    ]
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "tags": ["frontend", "design implementation", "design"]
   },
   {
     "id": 2,
@@ -37,9 +27,7 @@
     "displayName": "Dynamic website with server-side rendering",
     "description": "This project involves creating a dynamic website using server-side rendering techniques.",
     "url": "https://github.com/marketable-it-skills/s17-es2023-module_b-dynamic_website_with_server_side_rendering",
-    "skillDomainIds": [
-      1
-    ],
+    "skillDomainIds": [1],
     "competition": "EuroSkills Gdansk 2023",
     "estTime": 4,
     "authors": [
@@ -52,18 +40,8 @@
         "url": "https://www.linkedin.com/in/sebastian-haeni/"
       }
     ],
-    "technologies": [
-      "PHP",
-      "Laravel",
-      "Node.js",
-      "Next.js",
-      "MySQL"
-    ],
-    "tags": [
-      "SSR",
-      "admin",
-      "backend"
-    ]
+    "technologies": ["PHP", "Laravel", "Node.js", "Next.js", "MySQL"],
+    "tags": ["SSR", "admin", "backend"]
   },
   {
     "id": 3,
@@ -71,13 +49,8 @@
     "displayName": "Implementing the Admin Panel",
     "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
     "url": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel",
-    "skillDomainIds": [
-      1
-    ],
-    "languages": [
-      "EN",
-      "FI"
-    ],
+    "skillDomainIds": [1],
+    "languages": ["EN", "FI"],
     "competition": "Taitaja2025",
     "estTime": 4,
     "authors": [
@@ -90,17 +63,8 @@
         "url": "https://www.linkedin.com/in/eeligren/"
       }
     ],
-    "technologies": [
-      "HTML",
-      "CSS",
-      "PHP"
-    ],
-    "tags": [
-      "backend",
-      "implementation",
-      "frontend",
-      "Taitaja"
-    ]
+    "technologies": ["HTML", "CSS", "PHP"],
+    "tags": ["backend", "implementation", "frontend", "Taitaja"]
   },
   {
     "id": 4,
@@ -108,12 +72,8 @@
     "displayName": "Products Management",
     "description": "We are going to create a management system for an office administrator (as known as \"admin\") to manage some made-in-France products.",
     "url": "https://github.com/marketable-it-skills/s17-es2024-module_b-product-management",
-    "skillDomainIds": [
-      1
-    ],
-    "languages": [
-      "EN"
-    ],
+    "skillDomainIds": [1],
+    "languages": ["EN"],
     "competition": "WorldSkills Lyon 2024",
     "estTime": 3,
     "authors": [
@@ -126,20 +86,8 @@
         "url": ""
       }
     ],
-    "technologies": [
-      "HTML",
-      "PHP",
-      "Node.js"
-    ],
-    "tags": [
-      "HTML",
-      "CSS",
-      "SSR",
-      "JavaScript",
-      "PHP",
-      "Laravel",
-      "Next.js"
-    ]
+    "technologies": ["HTML", "PHP", "Node.js"],
+    "tags": ["HTML", "CSS", "SSR", "JavaScript", "PHP", "Laravel", "Next.js"]
   },
   {
     "id": 5,
@@ -147,13 +95,8 @@
     "displayName": "Web Page Implementation",
     "description": "The competitor’s task is to build the Retro Game House Hall of Fame gallery website, showcasing top players and high scores for each game or event.",
     "url": "https://github.com/marketable-it-skills/s17-taitaja2024-module_b-web_page_implementation",
-    "skillDomainIds": [
-      1
-    ],
-    "languages": [
-      "EN",
-      "FI"
-    ],
+    "skillDomainIds": [1],
+    "languages": ["EN", "FI"],
     "competition": "Taitaja2024",
     "estTime": 4,
     "authors": [
@@ -162,17 +105,29 @@
         "url": "https://www.linkedin.com/in/margittennosaar/"
       }
     ],
-    "technologies": [
-      "HTML",
-      "CSS",
-      "JavaScript"
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "tags": ["frontend", "retro", "gallery", "implementation", "Taitaja"]
+  },
+  {
+    "name": "WS2024 S17 - Module C",
+    "displayName": "Lyon Heritage Sites",
+    "description": "In this project, editors have written articles introducing notable heritage sites in Lyon, France.",
+    "url": "https://github.com/marketable-it-skills/s17-es2024-module_c-lyon-heritage-site",
+    "skillDomainIds": [1],
+    "languages": ["EN"],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": ""
+      }
     ],
-    "tags": [
-      "frontend",
-      "retro",
-      "gallery",
-      "implementation",
-      "Taitaja"
-    ]
+    "technologies": ["HTML", "PHP", "Node.js"],
+    "tags": ["HTML", "CSS", "SSR", "JavaScript", "PHP", "Laravel", "Next.js"]
   }
 ]
