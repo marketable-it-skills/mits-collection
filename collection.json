@@ -45,6 +45,28 @@
   },
   {
     "id": 3,
+    "name": "ES2023 S17 - Module C",
+    "displayName": "Commercial Open API",
+    "description": "Create a REST API that provides commercial access to AI services with authentication, quotas, billing, and error handling. Build secure endpoints that wrap ChatterBlast (chat), DreamWeaver (image generation), and MindReader (image recognition) services.",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_c-commercial-open-api",
+    "skillDomainIds": [1],
+    "competition": "EuroSkills Gdansk 2023",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": ["TypeScript", "Node.js", "REST API", "Express", "MySQL", "Docker", "OpenAPI"],
+    "tags": ["backend", "api", "authentication", "billing", "ai-services", "database"]
+  },
+  {
+    "id": 3,
     "name": "Taitaja2025 S17 - Module B",
     "displayName": "Implementing the Admin Panel",
     "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
