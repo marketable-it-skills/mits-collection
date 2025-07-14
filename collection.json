@@ -62,11 +62,60 @@
         "url": "https://www.linkedin.com/in/sebastian-haeni/"
       }
     ],
-    "technologies": ["TypeScript", "Node.js", "REST API", "Express", "MySQL", "Docker", "OpenAPI"],
-    "tags": ["backend", "api", "authentication", "billing", "ai-services", "database"]
+    "technologies": [
+      "TypeScript",
+      "Node.js",
+      "REST API",
+      "Express",
+      "MySQL",
+      "Docker",
+      "OpenAPI"
+    ],
+    "tags": [
+      "backend",
+      "api",
+      "authentication",
+      "billing",
+      "ai-services",
+      "database"
+    ]
   },
   {
-    "id": 3,
+    "id": 4,
+    "name": "ES2023 S17 - Module D",
+    "displayName": "Interactive Frontend using an API",
+    "description": "Create a modern frontend application using a JavaScript framework to interact with AI services through a REST API. The Single Page Application includes authentication, error handling, and interactive features for chat, image generation, and image recognition services.",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_d-interactive-frontend-using-an-api",
+    "skillDomainIds": [1],
+    "competition": "EuroSkills Gdansk 2023",
+    "estTime": 4,
+    "authors": [
+      { "name": "Cyril Wanner", "url": "" },
+      { "name": "Sebastian Häni", "url": "" }
+    ],
+    "technologies": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Vue",
+      "Angular",
+      "SPA",
+      "REST API",
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "javascript",
+      "api-consumption",
+      "authentication",
+      "ai-services",
+      "interactive"
+    ]
+  },
+  {
+    "id": 5,
     "name": "Taitaja2025 S17 - Module B",
     "displayName": "Implementing the Admin Panel",
     "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
@@ -89,7 +138,7 @@
     "tags": ["backend", "implementation", "frontend", "Taitaja"]
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "WS2024 S17 - Module B",
     "displayName": "Products Management",
     "description": "We are going to create a management system for an office administrator (as known as \"admin\") to manage some made-in-France products.",
@@ -112,7 +161,7 @@
     "tags": ["HTML", "CSS", "SSR", "JavaScript", "PHP", "Laravel", "Next.js"]
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "Taitaja2024 S17 - Module B",
     "displayName": "Web Page Implementation",
     "description": "The competitor’s task is to build the Retro Game House Hall of Fame gallery website, showcasing top players and high scores for each game or event.",
@@ -131,6 +180,7 @@
     "tags": ["frontend", "retro", "gallery", "implementation", "Taitaja"]
   },
   {
+    "id": 8,
     "name": "WS2024 S17 - Module C",
     "displayName": "Lyon Heritage Sites",
     "description": "In this project, editors have written articles introducing notable heritage sites in Lyon, France.",
@@ -153,6 +203,7 @@
     "tags": ["SSR", "WorldSkills", "CMS"]
   },
   {
+    "id": 9,
     "name": "WS2024 S17 - Module D",
     "displayName": "Lyon Mobile Web Service",
     "description": "In this project, you will create a mobile web application that provides access to essential service data for the city of Lyon.",
