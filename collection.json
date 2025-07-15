@@ -255,5 +255,38 @@
     ],
     "technologies": ["HTML", "JavaScript"],
     "tags": ["frontend", "mobile", "web service", "WorldSkills"]
+  },
+  {
+    "id": 8,
+    "name": "HU-RO Training 2023 - Module A",
+    "displayName": "DineEase Showcase Website",
+    "description": "Create a captivating promotional website for DineEase, a revolutionary dining platform. Build a responsive HTML/CSS website showcasing restaurant search, featured restaurants, testimonials, and company information to attract new users to the DineEase platform.",
+    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_a-dinease-showcase-website",
+    "skillDomainIds": [1],
+    "competition": "Hungary-Romania Training 2023",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      },
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      },
+      {
+        "name": "Oliver Mrakovics",
+        "url": "https://www.linkedin.com/in/0l1v3rr/"
+      }
+    ],
+    "technologies": ["HTML", "CSS", "Responsive Design", "WCAG", "SEO"],
+    "tags": [
+      "frontend",
+      "responsive",
+      "accessibility",
+      "seo",
+      "restaurant",
+      "promotional-website"
+    ]
   }
 ]
