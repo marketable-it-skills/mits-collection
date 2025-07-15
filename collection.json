@@ -116,6 +116,37 @@
   },
   {
     "id": 5,
+    "name": "ES2023 S17 - Module E",
+    "displayName": "Advanced Web Development",
+    "description": "Advanced web development skills including automated testing, Progressive Web App (PWA) development, and custom Web Components creation. Build comprehensive test suites, create installable PWAs with offline functionality, and develop reusable web components.",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_e-advanced-web-development",
+    "skillDomainIds": [1],
+    "competition": "EuroSkills Gdansk 2023",
+    "estTime": 3,
+    "authors": [
+      { "name": "Cyril Wanner", "url": "" },
+      { "name": "Sebastian Häni", "url": "" }
+    ],
+    "technologies": [
+      "JavaScript",
+      "PWA",
+      "Web Components",
+      "Service Workers",
+      "Testing",
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "testing",
+      "pwa",
+      "web-components",
+      "advanced",
+      "offline"
+    ]
+  },
+  {
+    "id": 5,
     "name": "Taitaja2025 S17 - Module B",
     "displayName": "Implementing the Admin Panel",
     "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
