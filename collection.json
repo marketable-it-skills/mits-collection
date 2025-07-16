@@ -456,7 +456,7 @@
     "name": "HU-RO Training 2023 - Module C",
     "displayName": "Commercial API Provider",
     "description": "Create a secure REST API Gateway that provides commercial access to DineEase restaurant services. Build a robust API with authentication, caching, rate limiting, and comprehensive error handling that wraps existing unsecure services into a reliable commercial offering.",
-    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_a-dinease-showcase-website",
+    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_c-commercial_api_provider",
     "skillDomainIds": [
       1
     ],
