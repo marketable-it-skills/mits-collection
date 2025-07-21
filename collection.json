@@ -644,5 +644,44 @@
       "authentication",
       "database"
     ]
+  },
+  {
+    "id": 15,
+    "name": "WS2022 S17 - Module D",
+    "displayName": "Game Portal Frontend",
+    "description": "Develop a comprehensive frontend for an online browser gaming platform. Create a single-page application that provides user authentication, game discovery with infinite scroll, interactive game playing with score submission, user profile management, and game management functionality for developers. Focus on accessibility, responsive design, and modern frontend development practices.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_d_game_portal_fe",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills 2022",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "accessibility",
+      "responsive-design",
+      "authentication"
+    ]
   }
 ]
