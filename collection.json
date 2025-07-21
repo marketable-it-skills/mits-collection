@@ -493,5 +493,44 @@
       "restaurant",
       "commercial-api"
     ]
+  },
+  {
+    "id": 11,
+    "name": "HU-RO Training 2023 - Module D",
+    "displayName": "Interactive Guest Experience",
+    "description": "Create an interactive frontend application for guests utilizing the DineEase restaurant service. Build a modern Single Page Application (SPA) using a JavaScript framework that provides users with an easy-to-navigate platform to explore restaurants, view detailed menus, read past reviews, and place orders.",
+    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_d-interactive_guest_experience",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "Hungary-Romania Training 2023",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      },
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      },
+      {
+        "name": "Oliver Mrakovics",
+        "url": "https://www.linkedin.com/in/0l1v3rr/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SPA",
+      "Frontend"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "ui",
+      "interactive"
+    ]
   }
 ]
