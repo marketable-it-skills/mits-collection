@@ -607,5 +607,42 @@
       "responsive-design",
       "offline-functionality"
     ]
+  },
+  {
+    "id": 14,
+    "name": "WS2022 S17 - Module C",
+    "displayName": "Game Admin Portal",
+    "description": "Develop a comprehensive online browser gaming platform backend with Administrator Portal for managing users and games, plus REST API for Developer and Gaming portals. Includes user authentication, game upload functionality, score tracking, and administrative controls for user management and game moderation.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_c_game_admin_portal",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills 2022",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "PHP",
+      "MySQL",
+      "REST API"
+    ],
+    "tags": [
+      "backend",
+      "api",
+      "authentication",
+      "database"
+    ]
   }
 ]
