@@ -568,5 +568,44 @@
       "javascript",
       "web-apis"
     ]
+  },
+  {
+    "id": 13,
+    "name": "WS2024 S17 - Module F",
+    "displayName": "Lyon Tourist Page",
+    "description": "Create a comprehensive tourist promotion website for Lyon featuring interactive elements, multimedia content, and advanced web technologies. Includes sticky navigation, call-to-action effects, map attractions, intelligent video playback, text-to-speech, custom web components, progressive web app functionality, and full accessibility compliance.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_f_lyon-tourist-page",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": "#"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Components",
+      "Service Workers"
+    ],
+    "tags": [
+      "frontend",
+      "progressive-web-app",
+      "animations",
+      "web-components",
+      "accessibility",
+      "text-to-speech",
+      "responsive-design",
+      "offline-functionality"
+    ]
   }
 ]
