@@ -683,5 +683,40 @@
       "responsive-design",
       "authentication"
     ]
+  },
+  {
+    "id": 16,
+    "name": "WS2022 S17 - Module F",
+    "displayName": "Game Portal Marketing Site",
+    "description": "",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_f-game_platform_marketing_page",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills 2022",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "responsive-design"
+    ]
   }
 ]
