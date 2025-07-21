@@ -532,5 +532,41 @@
       "ui",
       "interactive"
     ]
+  },
+  {
+    "id": 12,
+    "name": "WS2024 S17 - Module E",
+    "displayName": "Photos Slideshow",
+    "description": "Create an interactive photo slideshow web application that allows users to load, organize, and display photos with multiple animation themes. The application features drag-and-drop functionality, various slideshow modes (manual, auto-playing, random), multiple visual themes with CSS animations, and a command bar for quick navigation and control.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_e-photos_slideshow",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": "#"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web APIs"
+    ],
+    "tags": [
+      "frontend",
+      "slideshow",
+      "photos",
+      "animations",
+      "javascript",
+      "web-apis"
+    ]
   }
 ]
