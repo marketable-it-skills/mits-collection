@@ -331,5 +331,48 @@
       "restaurant-management",
       "security"
     ]
+  },
+  {
+    "id": 10,
+    "name": "WS2022 S17 - Module E",
+    "displayName": "Virtual World Interactive Game",
+    "description": "Create an interactive learning game for kids featuring avatar movement, scene switching, and educational quizzes in a virtual world environment.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_e-virtual-word-interactive-game",
+    "skillDomainIds": [1],
+    "competition": "WorldSkills 2022",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      },
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      },
+      {
+        "name": "Oliver Mrakovics",
+        "url": "https://www.linkedin.com/in/0l1v3rr/"
+      }
+    ],
+    "technologies": [
+      "Server-Side Rendering",
+      "Database Design",
+      "Authentication",
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "Express",
+      "MySQL"
+    ],
+    "tags": [
+      "backend",
+      "server-side",
+      "database",
+      "authentication",
+      "admin-panel",
+      "restaurant-management",
+      "security"
+    ]
   }
 ]
