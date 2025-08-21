@@ -640,5 +640,37 @@
       "owasp security",
       "admin dashboard"
     ]
+  },
+  {
+    "id": 23,
+    "name": "ES2025-HU S17 - Module C",
+    "displayName": "SkillShare Academy REST API",
+    "description": "The task is to build a comprehensive REST API for the SkillShare Academy learning platform with authentication, course management, mentor booking, and credit system.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_c-rest-api",
+    "skillDomainIds": [1],
+    "competition": "EuroSkills 2025 Training Competition - Hungary",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Skills IT (HU)",
+        "url": "https://skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "REST API",
+      "OpenAPI"
+    ],
+    "tags": [
+      "backend",
+      "api development",
+      "authentication",
+      "database",
+      "rest api"
+    ]
   }
 ]
