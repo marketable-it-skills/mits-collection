@@ -643,7 +643,7 @@
   },
   {
     "id": 23,
-    "name": "ES2025-HU S17 - Module C",
+    "name": "ES2025 TRAINING HU S17 - Module C",
     "displayName": "SkillShare Academy REST API",
     "description": "The task is to build a comprehensive REST API for the SkillShare Academy learning platform with authentication, course management, mentor booking, and credit system.",
     "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_c-rest-api",
