@@ -617,11 +617,11 @@
     ]
   },
   {
-    "id": 22,
+    "id": 2,
     "name": "ES2025 TRAINING HU S17 - Module B",
     "displayName": "SkillShare Academy - Dynamic Website with Server-Side Rendering",
     "description": "Create a server-side rendered administrative interface for SkillShare Academy platform management with role-based access control and OWASP security compliance.",
-    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_b-dynamic-website-with-server-side-rendering",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_b-server_side_rendering",
     "skillDomainIds": [1],
     "competition": "EuroSkills 2025 Training Competition - Hungary",
     "estTime": 4,
@@ -631,26 +631,13 @@
         "url": "https://skillsit.hu"
       }
     ],
-    "technologies": [
-      "Server-Side Rendering",
-      "MySQL",
-      "Laravel/Express.js",
-      "Authentication",
-      "Database Design",
-      "OWASP Security"
-    ],
+    "technologies": ["Server-Side Rendering", "MySQL", "Laravel", "Next.js"],
     "tags": [
       "backend",
       "server-side rendering",
-      "administrative interface",
       "authentication",
-      "role-based access control",
       "database design",
-      "mysql",
       "owasp security",
-      "crud operations",
-      "session management",
-      "skillshare academy",
       "admin dashboard"
     ]
   }
