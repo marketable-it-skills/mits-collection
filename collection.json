@@ -587,5 +587,33 @@
       "LocalStorage",
       "API Integration"
     ]
+  },
+  {
+    "id": 1,
+    "name": "ES2025 TRAINING HU S17 - Module A",
+    "displayName": "SkillShare Academy - Static Website Design",
+    "description": "Create a responsive static website for SkillShare Academy digital learning platform using HTML5 and CSS3.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_a-design_and_implementation",
+    "skillDomainIds": [1],
+    "competition": "EuroSkills 2025 Training Competition - Hungary",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Skills IT (HU)",
+        "url": "https://skillsit.hu"
+      }
+    ],
+    "technologies": ["HTML5", "CSS3", "Responsive Design"],
+    "tags": [
+      "frontend",
+      "static website",
+      "responsive design",
+      "accessibility",
+      "semantic html",
+      "css grid",
+      "flexbox",
+      "digital learning platform",
+      "skillshare academy"
+    ]
   }
 ]
