@@ -672,5 +672,40 @@
       "database",
       "rest api"
     ]
+  },
+  {
+    "id": 24,
+    "name": "ES2025 TRAINING HU S17 - Module D",
+    "displayName": "Interactive Frontend using an API",
+    "description": "Create a modern frontend application using a JavaScript framework to interact with the SkillShare Academy platform through a REST API. The Single Page Application includes authentication, error handling, and interactive features for course discovery, mentor booking, and credit management.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_d-interactive-frontend-using-an-api",
+    "skillDomainIds": [1],
+    "competition": "EuroSkills 2025 Training Competition - Hungary",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Skills IT (HU)",
+        "url": "https://skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Vue",
+      "SPA",
+      "REST API",
+      "HTML",
+      "CSS",
+      "Chart.js"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "javascript",
+      "api consumption",
+      "authentication",
+      "interactive"
+    ]
   }
 ]
