@@ -188,11 +188,11 @@
   },
   {
     "id": 6,
-    "name": "Taitaja2025 S17 - Module B",
+    "name": "Taitaja S17 - Module B",
     "displayName": "Implementing the Admin Panel",
-    "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
+    "description": "The competitor’s task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
     "url": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel",
-    "skillDomainIds": [
+    "skillDomainsIds": [
       1
     ],
     "languages": [
@@ -264,11 +264,11 @@
   },
   {
     "id": 8,
-    "name": "Taitaja2024 S17 - Module B",
+    "name": "Taitaja S17 - Module B",
     "displayName": "Web Page Implementation",
     "description": "The competitor’s task is to build the Retro Game House Hall of Fame gallery website, showcasing top players and high scores for each game or event.",
     "url": "https://github.com/marketable-it-skills/s17-taitaja2024-module_b-web_page_implementation",
-    "skillDomainIds": [
+    "skillDomainsIds": [
       1
     ],
     "languages": [
@@ -301,7 +301,7 @@
     "name": "WS2024 S17 - Module C",
     "displayName": "Lyon Heritage Sites",
     "description": "In this project, editors have written articles introducing notable heritage sites in Lyon, France.",
-    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_c-lyon-heritage-site",
+    "url": "https://github.com/marketable-it-skills/s17-es2024-module_c-lyon-heritage-site",
     "skillDomainIds": [
       1
     ],
@@ -336,7 +336,7 @@
     "name": "WS2024 S17 - Module D",
     "displayName": "Lyon Mobile Web Service",
     "description": "In this project, you will create a mobile web application that provides access to essential service data for the city of Lyon.",
-    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_d-lyon-mobile-web-service",
+    "url": "https://github.com/marketable-it-skills/s17-es2024-module_d-lyon-mobile-web-service",
     "skillDomainIds": [
       1
     ],
@@ -364,7 +364,8 @@
       "mobile",
       "web service",
       "WorldSkills"
-    ]
+    ],
+    "status": "draft"
   },
   {
     "id": 11,
@@ -457,7 +458,7 @@
     "name": "HU-RO Training 2023 - Module C",
     "displayName": "Commercial API Provider",
     "description": "Create a secure REST API Gateway that provides commercial access to DineEase restaurant services. Build a robust API with authentication, caching, rate limiting, and comprehensive error handling that wraps existing unsecure services into a reliable commercial offering.",
-    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_c-commercial_api_provider",
+    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_a-dinease-showcase-website",
     "skillDomainIds": [
       1
     ],
