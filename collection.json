@@ -5,7 +5,7 @@
     "displayName": "AI Services Promo Website",
     "description": "This project involves creating a static, responsive website using only HTML and CSS, based on a client-provided structure and content. It must include four pages, follow accessibility (WCAG) and SEO standards, and work across mobile, tablet, and desktop viewports.",
     "url": "https://github.com/marketable-it-skills/s17-es2023-module_a-design_and_implementation",
-    "skillDomainsIds": [
+    "skillDomainIds": [
       1
     ],
     "competition": "EuroSkills Gdansk 2023",
