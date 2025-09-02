@@ -301,7 +301,7 @@
     "name": "WS2024 S17 - Module C",
     "displayName": "Lyon Heritage Sites",
     "description": "In this project, editors have written articles introducing notable heritage sites in Lyon, France.",
-    "url": "https://github.com/marketable-it-skills/s17-es2024-module_c-lyon-heritage-site",
+    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_c-lyon-heritage-site",
     "skillDomainIds": [
       1
     ],
@@ -336,7 +336,7 @@
     "name": "WS2024 S17 - Module D",
     "displayName": "Lyon Mobile Web Service",
     "description": "In this project, you will create a mobile web application that provides access to essential service data for the city of Lyon.",
-    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_d-lyon-mobile-web-service",
+    "url": "https://github.com/marketable-it-skills/s17-es2024-module_d-lyon-mobile-web-service",
     "skillDomainIds": [
       1
     ],
