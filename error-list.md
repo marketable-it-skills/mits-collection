@@ -35,3 +35,23 @@
   but they are not included in the test project.  
   ❓**Question:** Are these files required, or are they replaced by the dockerized mock-api-server?  
 - ❌ Instead of Module D’s marking, Module B (Admin) marking scheme is included 
+
+## Module E
+- ❓**Question:** In the Marking, items 4.3–4.7 are shown as a dropdown list like a judgement type,  
+  but in the JSON file the type is `measurement`. The scoring table also lists the type as `measurement`.  
+  Shouldn’t this then be `pass-or-fail` values instead?  
+
+- ❓**Question:** In the `project-description.md` file, the "Mark distribution" block defines different descriptions  
+  and values compared to the PDF, including a different total score.  
+  Which scoring scheme should be used?  
+
+The PDF contains the following table:  
+
+|            | Sub-Criteria          | Marks  |
+|------------|-----------------------|--------|
+| 1          | Loading image files   | 2.75   |
+| 2          | Ordering photos       | 1.5    |
+| 3          | Slides Operating      | 2.5    |
+| 4          | Theme                 | 6.5    |
+| 5          | Command Bar           | 3.75   |
+| **Total**  |                       | **17** |
