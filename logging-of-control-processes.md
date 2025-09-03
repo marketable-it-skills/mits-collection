@@ -46,3 +46,12 @@
 ## Module C
 - The test project description contains a different image than the PDF, but the content is essentially the same  
 - ❌Instead of Module C’s marking, Module B’s marking scheme is included  
+- Deleted the empty deploy section from `readme.md`  
+
+## Module D
+- On the MITS interface, the card for this module does not appear  (draft mode)  
+- Deleted the empty deploy section from `readme.md`  
+- In the original repo under `assets`, there are `module_d_api.php` and `module_d_api-cors-version.php` files,  
+  but they are not included in the test project.  
+  ❓**Question:** Are these files required, or are they replaced by the dockerized mock-api-server?  
+- ❌ Instead of Module D’s marking, Module B (Admin) marking scheme is included  
