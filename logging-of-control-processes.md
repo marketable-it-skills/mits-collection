@@ -76,3 +76,28 @@ The PDF contains the following table:
 | 4          | Theme                 | 6.5    |
 | 5          | Command Bar           | 3.75   |
 | **Total**  |                       | **17** |
+
+## Module F
+- In the description, the `layout-map-attraction.jpg` image is not displayed,  
+  but afterwards the text states it is the reference, so I considered this correct.  
+
+- ❓**Question:** Similar to the previous module, in the `project-description.md` file,  
+  the "Mark distribution" block defines different descriptions and values compared to the PDF,  
+  including a different total score. Which scoring scheme should be used?  
+
+The PDF contains the following table:  
+
+|            | Sub-Criteria                      | Marks |
+|------------|-----------------------------------|-------|
+| 1          | Responsive loading                | 2.25  |
+| 2          | Video playback                    | 2.0   |
+| 3          | Design and Layout Implementation  | 2.75  |
+| 4          | Effects                           | 3.0   |
+| 5          | Accessibility                     | 2.5   |
+| 6          | Tabs                              | 1.0   |
+| **Total**  |                                   | **13.5** |
+
+- Assets are correct  
+- ❓**Question (Effects section in Marking):** For items 4.1 and 4.3, they appear as dropdowns like a judgement,  
+  but in the JSON file the type is `measurement`. The scoring table also lists the type as `measurement`.  
+  Shouldn’t this then be `pass-or-fail` values instead?  
