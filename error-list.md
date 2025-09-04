@@ -108,3 +108,9 @@ The PDF contains the following table:
   Example: _General layout and implementation, Header section, Featured Restaurants section ..._
 - ❌ In the test project marking, under point 3.2, for resolution the symbol between the two numbers is missing,  
   and instead a question mark appears.
+
+## Module B
+
+- Delete the `development-and-deployment.md` file
+- ❌ In the original repo I found a `modb.csv` file where the total score is 24.5, and the evaluation criteria are different.  
+  In the `project-description.md` the total score is 25, while on the test project page it shows 26 points.
