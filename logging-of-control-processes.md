@@ -139,3 +139,15 @@ The PDF contains the following table:
 - Delete the `development-and-deployment.md` file
 - ❌ In the original repo I found a `modb.csv` file where the total score is 24.5, and the evaluation criteria are different.  
   In the `project-description.md` the total score is 25, while on the test project page it shows 26 points.
+
+## Module C
+
+- Delete the `development-and-deployment.md` file
+- Delete the deploy list item from the `readme.md` file
+- Note: The original `assets` does not contain the `api-service` folder
+- ❌ The table contains different scores and criteria, and the total score there is 30 points
+
+## Module D
+
+- Deleted the deploy list item from the `readme.md` file
+- ❌ The table contains different scores and criteria, and the total score there is 30 points
