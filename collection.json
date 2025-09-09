@@ -149,7 +149,9 @@
       "authentication",
       "ai-services",
       "interactive"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 5,
