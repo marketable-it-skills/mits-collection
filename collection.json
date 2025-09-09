@@ -105,7 +105,9 @@
       "billing",
       "ai-services",
       "database"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 4,
