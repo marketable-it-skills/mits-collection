@@ -570,7 +570,7 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": "#"
+        "url": "https://www.linkedin.com/in/makzan/"
       }
     ],
     "technologies": [
@@ -586,7 +586,9 @@
       "animations",
       "javascript",
       "web-apis"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 16,
