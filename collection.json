@@ -190,7 +190,9 @@
       "web-components",
       "advanced",
       "offline"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 6,
