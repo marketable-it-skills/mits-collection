@@ -760,7 +760,7 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": ""
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
       }
     ],
     "technologies": [
@@ -772,7 +772,9 @@
       "Game Development",
       "LocalStorage",
       "API Integration"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 21,
