@@ -328,7 +328,7 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": ""
+        "url": "https://www.linkedin.com/in/makzan/"
       }
     ],
     "technologies": [
@@ -340,7 +340,9 @@
       "SSR",
       "WorldSkills",
       "CMS"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 10,
