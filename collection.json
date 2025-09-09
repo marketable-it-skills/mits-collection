@@ -30,7 +30,8 @@
       "design implementation",
       "design"
     ],
-    "status": "draft"
+    "status": "published",
+    "isPrivate": true
   },
   {
     "id": 2,
@@ -229,7 +230,8 @@
       "implementation",
       "frontend",
       "Taitaja"
-    ]
+    ],
+    "isPrivate": true
   },
   {
     "id": 7,
@@ -302,7 +304,8 @@
       "gallery",
       "implementation",
       "Taitaja"
-    ]
+    ],
+    "isPrivate": true
   },
   {
     "id": 9,
@@ -414,7 +417,8 @@
       "seo",
       "restaurant",
       "promotional-website"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 12,
@@ -459,7 +463,8 @@
       "admin-panel",
       "restaurant-management",
       "security"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 13,
@@ -502,7 +507,8 @@
       "security",
       "restaurant",
       "commercial-api"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 14,
@@ -541,7 +547,8 @@
       "spa",
       "ui",
       "interactive"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 15,
@@ -799,7 +806,8 @@
       "flexbox",
       "digital learning platform",
       "skillshare academy"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 22,
@@ -831,7 +839,8 @@
       "database design",
       "owasp security",
       "admin dashboard"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 23,
@@ -865,7 +874,8 @@
       "authentication",
       "database",
       "rest api"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 24,
@@ -902,6 +912,7 @@
       "api consumption",
       "authentication",
       "interactive"
-    ]
+    ],
+    "isPrivate": false
   }
 ]
