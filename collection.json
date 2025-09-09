@@ -686,7 +686,9 @@
       "accessibility",
       "responsive-design",
       "authentication"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 19,
