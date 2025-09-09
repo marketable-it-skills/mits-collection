@@ -64,7 +64,9 @@
       "SSR",
       "admin",
       "backend"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 3,
