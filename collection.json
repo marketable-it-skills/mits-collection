@@ -723,7 +723,9 @@
       "frontend",
       "design",
       "responsive-design"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 20,
