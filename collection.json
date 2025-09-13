@@ -20,7 +20,8 @@
     ],
     "technologies": ["HTML", "CSS", "JavaScript"],
     "tags": ["frontend", "design implementation", "design"],
-    "status": "published"
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 2,
@@ -42,7 +43,9 @@
       }
     ],
     "technologies": ["PHP", "Laravel", "Node.js", "Next.js", "MySQL"],
-    "tags": ["SSR", "admin", "backend"]
+    "tags": ["SSR", "admin", "backend"],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 3,
@@ -79,7 +82,9 @@
       "billing",
       "ai-services",
       "database"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 4,
@@ -119,7 +124,9 @@
       "authentication",
       "ai-services",
       "interactive"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 5,
@@ -156,7 +163,9 @@
       "web-components",
       "advanced",
       "offline"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 6,
@@ -179,7 +188,8 @@
       }
     ],
     "technologies": ["HTML", "CSS", "PHP"],
-    "tags": ["backend", "implementation", "frontend", "Taitaja"]
+    "tags": ["backend", "implementation", "frontend", "Taitaja"],
+    "isPrivate": true
   },
   {
     "id": 7,
@@ -198,11 +208,13 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": ""
+        "url": "https://www.linkedin.com/in/makzan/"
       }
     ],
     "technologies": ["HTML", "PHP", "Node.js"],
-    "tags": ["HTML", "CSS", "SSR", "JavaScript", "PHP", "Laravel", "Next.js"]
+    "tags": ["CSS", "SSR", "JavaScript", "Laravel", "Next.js"],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 8,
@@ -221,7 +233,8 @@
       }
     ],
     "technologies": ["HTML", "CSS", "JavaScript"],
-    "tags": ["frontend", "retro", "gallery", "implementation", "Taitaja"]
+    "tags": ["frontend", "retro", "gallery", "implementation", "Taitaja"],
+    "isPrivate": true
   },
   {
     "id": 9,
@@ -240,11 +253,13 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": ""
+        "url": "https://www.linkedin.com/in/makzan/"
       }
     ],
     "technologies": ["HTML", "PHP", "Node.js"],
-    "tags": ["SSR", "WorldSkills", "CMS"]
+    "tags": ["SSR", "WorldSkills", "CMS"],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 10,
@@ -301,7 +316,8 @@
       "seo",
       "restaurant",
       "promotional-website"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 12,
@@ -344,7 +360,8 @@
       "admin-panel",
       "restaurant-management",
       "security"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 13,
@@ -385,7 +402,8 @@
       "security",
       "restaurant",
       "commercial-api"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 14,
@@ -411,7 +429,8 @@
       }
     ],
     "technologies": ["HTML", "CSS", "JavaScript", "SPA", "Frontend"],
-    "tags": ["frontend", "spa", "ui", "interactive"]
+    "tags": ["frontend", "spa", "ui", "interactive"],
+    "isPrivate": false
   },
   {
     "id": 15,
@@ -429,7 +448,7 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": "#"
+        "url": "https://www.linkedin.com/in/makzan/"
       }
     ],
     "technologies": ["HTML", "CSS", "JavaScript", "Web APIs"],
@@ -440,7 +459,9 @@
       "animations",
       "javascript",
       "web-apis"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 16,
@@ -458,7 +479,7 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": "#"
+        "url": "https://www.linkedin.com/in/makzan/"
       }
     ],
     "technologies": [
@@ -477,7 +498,9 @@
       "text-to-speech",
       "responsive-design",
       "offline-functionality"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 17,
@@ -503,7 +526,9 @@
       }
     ],
     "technologies": ["PHP", "MySQL", "REST API"],
-    "tags": ["backend", "api", "authentication", "database"]
+    "tags": ["backend", "api", "authentication", "database"],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 18,
@@ -535,7 +560,9 @@
       "accessibility",
       "responsive-design",
       "authentication"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 19,
@@ -561,7 +588,9 @@
       }
     ],
     "technologies": ["HTML", "CSS"],
-    "tags": ["frontend", "design", "responsive-design"]
+    "tags": ["frontend", "design", "responsive-design"],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 20,
@@ -579,7 +608,7 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": ""
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
       }
     ],
     "technologies": ["HTML", "CSS"],
@@ -588,7 +617,9 @@
       "Game Development",
       "LocalStorage",
       "API Integration"
-    ]
+    ],
+    "status": "draft",
+    "isPrivate": true
   },
   {
     "id": 21,
@@ -616,7 +647,8 @@
       "flexbox",
       "digital learning platform",
       "skillshare academy"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 22,
@@ -641,7 +673,8 @@
       "database design",
       "owasp security",
       "admin dashboard"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 23,
@@ -673,7 +706,8 @@
       "authentication",
       "database",
       "rest api"
-    ]
+    ],
+    "isPrivate": false
   },
   {
     "id": 24,
@@ -708,6 +742,7 @@
       "api consumption",
       "authentication",
       "interactive"
-    ]
+    ],
+    "isPrivate": false
   }
 ]
