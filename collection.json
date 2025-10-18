@@ -926,39 +926,33 @@
   {
     "id": 25,
     "name": "ES2025 S17 - Module A",
-    "displayName": "Interactive Frontend using an API",
-    "description": "Create a modern frontend application using a JavaScript framework to interact with the SkillShare Academy platform through a REST API. The Single Page Application includes authentication, error handling, and interactive features for course discovery, mentor booking, and credit management.",
+    "displayName": "Offshore Wind Farm Promo Website",
+    "description": "Build a promotional static website using HTML and CSS to promote an offshore wind farm project and attract potential investors.",
     "url": "https://github.com/marketable-it-skills/s17-es2025-module_a-static-website-design",
     "skillDomainIds": [
       1
     ],
-    "competition": "EuroSkills 2025 Training Competition - Hungary",
-    "estTime": 4,
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 3,
     "authors": [
       {
-        "name": "Skills IT (HU)",
-        "url": "https://skillsit.hu"
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
       }
     ],
     "technologies": [
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "Vue",
-      "SPA",
-      "REST API",
       "HTML",
-      "CSS",
-      "Chart.js"
+      "CSS"
     ],
     "tags": [
       "frontend",
-      "spa",
-      "javascript",
-      "api consumption",
-      "authentication",
-      "interactive"
+      "design implementation",
+      "design"
     ],
-    "isPrivate": false
+    "isPrivate": true
   }
 ]
