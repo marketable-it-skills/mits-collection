@@ -954,5 +954,44 @@
       "design"
     ],
     "isPrivate": true
+  },
+  {
+    "id": 26,
+    "name": "ES2025 S17 - Module B",
+    "displayName": "Offshore Wind Farm Dynamic Platform",
+    "description": "Build a server-side rendered dynamic website for managing an offshore wind farm project with investor management, tour bookings, and admin functions.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-module_b-dynamic-website-with-server-side-rendering",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "Server-Side Rendering",
+      "PHP",
+      "Node.js",
+      "SQL",
+      "Authentication",
+      "OWASP Security"
+    ],
+    "tags": [
+      "backend",
+      "server-side rendering",
+      "database design",
+      "authentication",
+      "security",
+      "CRUD operations"
+    ],
+    "isPrivate": true
   }
 ]
