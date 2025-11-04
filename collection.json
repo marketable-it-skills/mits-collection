@@ -66,7 +66,7 @@
       "admin",
       "backend"
     ],
-    "status": "published",
+    "status": "draft",
     "isPrivate": true
   },
   {
@@ -199,7 +199,7 @@
     "id": 6,
     "name": "Taitaja 2025 S17 - Module B",
     "displayName": "Implementing the Admin Panel",
-    "description": "The competitor’s task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
+    "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
     "url": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel",
     "skillDomainIds": [
       1
@@ -231,6 +231,7 @@
       "frontend",
       "Taitaja"
     ],
+    "status": "published",
     "isPrivate": false
   },
   {
@@ -276,7 +277,7 @@
     "id": 8,
     "name": "Taitaja 2024 S17 - Module B",
     "displayName": "Web Page Implementation",
-    "description": "The competitor’s task is to build the Retro Game House Hall of Fame gallery website, showcasing top players and high scores for each game or event.",
+    "description": "The competitor's task is to build the Retro Game House Hall of Fame gallery website, showcasing top players and high scores for each game or event.",
     "url": "https://github.com/marketable-it-skills/s17-taitaja2024-module_b-web_page_implementation",
     "skillDomainIds": [
       1
@@ -305,6 +306,7 @@
       "implementation",
       "Taitaja"
     ],
+    "status": "published",
     "isPrivate": true
   },
   {
@@ -341,7 +343,7 @@
       "WorldSkills",
       "CMS"
     ],
-    "status": "published",
+    "status": "draft",
     "isPrivate": true
   },
   {
@@ -420,6 +422,7 @@
       "restaurant",
       "promotional-website"
     ],
+    "status": "draft",
     "isPrivate": false
   },
   {
@@ -466,6 +469,7 @@
       "restaurant-management",
       "security"
     ],
+    "status": "draft",
     "isPrivate": false
   },
   {
@@ -510,6 +514,7 @@
       "restaurant",
       "commercial-api"
     ],
+    "status": "draft",
     "isPrivate": false
   },
   {
@@ -550,6 +555,7 @@
       "ui",
       "interactive"
     ],
+    "status": "draft",
     "isPrivate": false
   },
   {
@@ -815,6 +821,7 @@
       "digital learning platform",
       "skillshare academy"
     ],
+    "status": "published",
     "isPrivate": false
   },
   {
@@ -848,6 +855,7 @@
       "owasp security",
       "admin dashboard"
     ],
+    "status": "published",
     "isPrivate": false
   },
   {
@@ -883,6 +891,7 @@
       "database",
       "rest api"
     ],
+    "status": "published",
     "isPrivate": false
   },
   {
@@ -921,6 +930,7 @@
       "authentication",
       "interactive"
     ],
+    "status": "published",
     "isPrivate": false
   },
   {
@@ -953,6 +963,7 @@
       "design implementation",
       "design"
     ],
+    "status": "published",
     "isPrivate": true
   },
   {
@@ -992,6 +1003,7 @@
       "security",
       "CRUD operations"
     ],
+    "status": "published",
     "isPrivate": true
   }
 ]
