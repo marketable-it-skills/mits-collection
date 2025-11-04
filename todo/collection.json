@@ -1,0 +1,1505 @@
+[
+  {
+    "id": 1,
+    "name": "ES2023 S17 - Module A",
+    "displayName": "AI Services Promo Website",
+    "description": "This project involves creating a static, responsive website using only HTML and CSS, based on a client-provided structure and content. It must include four pages, follow accessibility (WCAG) and SEO standards, and work across mobile, tablet, and desktop viewports.",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_a-design_and_implementation",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Gdansk 2023",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "design implementation",
+      "design"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 2,
+    "name": "ES2023 S17 - Module B",
+    "displayName": "Dynamic website with server-side rendering",
+    "description": "This project involves creating a dynamic website using server-side rendering techniques.",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_b-dynamic_website_with_server_side_rendering",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Gdansk 2023",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "Next.js",
+      "MySQL"
+    ],
+    "tags": [
+      "SSR",
+      "admin",
+      "backend"
+    ],
+    "status": "draft",
+    "isPrivate": true
+  },
+  {
+    "id": 3,
+    "name": "ES2023 S17 - Module C",
+    "displayName": "Commercial Open API",
+    "description": "Create a REST API that provides commercial access to AI services with authentication, quotas, billing, and error handling. Build secure endpoints that wrap ChatterBlast (chat), DreamWeaver (image generation), and MindReader (image recognition) services.",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_c-commercial-open-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Gdansk 2023",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "TypeScript",
+      "Node.js",
+      "REST API",
+      "Express",
+      "MySQL",
+      "Docker",
+      "OpenAPI"
+    ],
+    "tags": [
+      "backend",
+      "api",
+      "authentication",
+      "billing",
+      "ai-services",
+      "database"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 4,
+    "name": "ES2023 S17 - Module D",
+    "displayName": "Interactive Frontend using an API",
+    "description": "Create a modern frontend application using a JavaScript framework to interact with AI services through a REST API. The Single Page Application includes authentication, error handling, and interactive features for chat, image generation, and image recognition services.",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_d-interactive-frontend-using-an-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Gdansk 2023",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Vue",
+      "Angular",
+      "SPA",
+      "REST API",
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "javascript",
+      "api-consumption",
+      "authentication",
+      "ai-services",
+      "interactive"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 5,
+    "name": "ES2023 S17 - Module E",
+    "displayName": "Advanced Web Development",
+    "description": "Advanced web development skills including automated testing, Progressive Web App (PWA) development, and custom Web Components creation. Build comprehensive test suites, create installable PWAs with offline functionality, and develop reusable web components.",
+    "url": "https://github.com/marketable-it-skills/s17-es2023-module_e-advanced-web-development",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Gdansk 2023",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "PWA",
+      "Web Components",
+      "Service Workers",
+      "Testing",
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "testing",
+      "pwa",
+      "web-components",
+      "advanced",
+      "offline"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 6,
+    "name": "Taitaja 2025 S17 - Module B",
+    "displayName": "Implementing the Admin Panel",
+    "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
+    "url": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN",
+      "FI"
+    ],
+    "competition": "Taitaja2025",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Margit Tennosaar",
+        "url": "https://www.linkedin.com/in/margittennosaar/"
+      },
+      {
+        "name": "Eeli Grén",
+        "url": "https://www.linkedin.com/in/eeligren/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "PHP"
+    ],
+    "tags": [
+      "backend",
+      "implementation",
+      "frontend",
+      "Taitaja"
+    ],
+    "status": "published",
+    "isPrivate": false
+  },
+  {
+    "id": 7,
+    "name": "WS2024 S17 - Module B",
+    "displayName": "Products Management",
+    "description": "We are going to create a management system for an office administrator (as known as \"admin\") to manage some made-in-France products.",
+    "url": "https://github.com/marketable-it-skills/s17-es2024-module_b-product-management",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "PHP",
+      "Node.js"
+    ],
+    "tags": [
+      "CSS",
+      "SSR",
+      "JavaScript",
+      "Laravel",
+      "Next.js"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 8,
+    "name": "Taitaja 2024 S17 - Module B",
+    "displayName": "Web Page Implementation",
+    "description": "The competitor's task is to build the Retro Game House Hall of Fame gallery website, showcasing top players and high scores for each game or event.",
+    "url": "https://github.com/marketable-it-skills/s17-taitaja2024-module_b-web_page_implementation",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN",
+      "FI"
+    ],
+    "competition": "Taitaja2024",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Margit Tennosaar",
+        "url": "https://www.linkedin.com/in/margittennosaar/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "retro",
+      "gallery",
+      "implementation",
+      "Taitaja"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 9,
+    "name": "WS2024 S17 - Module C",
+    "displayName": "Lyon Heritage Sites",
+    "description": "In this project, editors have written articles introducing notable heritage sites in Lyon, France.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_c-lyon-heritage-site",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "PHP",
+      "Node.js"
+    ],
+    "tags": [
+      "SSR",
+      "WorldSkills",
+      "CMS"
+    ],
+    "status": "draft",
+    "isPrivate": true
+  },
+  {
+    "id": 10,
+    "name": "WS2024 S17 - Module D",
+    "displayName": "Lyon Mobile Web Service",
+    "description": "In this project, you will create a mobile web application that provides access to essential service data for the city of Lyon.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_d-lyon-mobile-web-service",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": ""
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "mobile",
+      "web service",
+      "WorldSkills"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": 11,
+    "name": "HU-RO Training 2023 - Module A",
+    "displayName": "DineEase Showcase Website",
+    "description": "Create a captivating promotional website for DineEase, a revolutionary dining platform. Build a responsive HTML/CSS website showcasing restaurant search, featured restaurants, testimonials, and company information to attract new users to the DineEase platform.",
+    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_a-dinease-showcase-website",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "Hungary-Romania Training 2023",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      },
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      },
+      {
+        "name": "Oliver Mrakovics",
+        "url": "https://www.linkedin.com/in/0l1v3rr/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Responsive Design",
+      "WCAG",
+      "SEO"
+    ],
+    "tags": [
+      "frontend",
+      "responsive",
+      "accessibility",
+      "seo",
+      "restaurant",
+      "promotional-website"
+    ],
+    "status": "draft",
+    "isPrivate": false
+  },
+  {
+    "id": 12,
+    "name": "HU-RO Training 2023 - Module B",
+    "displayName": "Restaurant Owners' Hub",
+    "description": "Develop a server-side rendered administration system for DineEase restaurant owners. Create a comprehensive management hub with user authentication, role-based access control, menu management, reservation handling, and review management capabilities.",
+    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_b-restaurants-owners-hub",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "Hungary-Romania Training 2023",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      },
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      },
+      {
+        "name": "Oliver Mrakovics",
+        "url": "https://www.linkedin.com/in/0l1v3rr/"
+      }
+    ],
+    "technologies": [
+      "Server-Side Rendering",
+      "Database Design",
+      "Authentication",
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "Express",
+      "MySQL"
+    ],
+    "tags": [
+      "backend",
+      "server-side",
+      "database",
+      "authentication",
+      "admin-panel",
+      "restaurant-management",
+      "security"
+    ],
+    "status": "draft",
+    "isPrivate": false
+  },
+  {
+    "id": 13,
+    "name": "HU-RO Training 2023 - Module C",
+    "displayName": "Commercial API Provider",
+    "description": "Create a secure REST API Gateway that provides commercial access to DineEase restaurant services. Build a robust API with authentication, caching, rate limiting, and comprehensive error handling that wraps existing unsecure services into a reliable commercial offering.",
+    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_c-commercial_api_provider",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "Hungary-Romania Training 2023",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      },
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      },
+      {
+        "name": "Oliver Mrakovics",
+        "url": "https://www.linkedin.com/in/0l1v3rr/"
+      }
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "REST API",
+      "JWT",
+      "API Gateway",
+      "Caching",
+      "Rate Limiting"
+    ],
+    "tags": [
+      "backend",
+      "api",
+      "authentication",
+      "security",
+      "restaurant",
+      "commercial-api"
+    ],
+    "status": "draft",
+    "isPrivate": false
+  },
+  {
+    "id": 14,
+    "name": "HU-RO Training 2023 - Module D",
+    "displayName": "Interactive Guest Experience",
+    "description": "Create an interactive frontend application for guests utilizing the DineEase restaurant service. Build a modern Single Page Application (SPA) using a JavaScript framework that provides users with an easy-to-navigate platform to explore restaurants, view detailed menus, read past reviews, and place orders.",
+    "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_d-interactive_guest_experience",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "Hungary-Romania Training 2023",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      },
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      },
+      {
+        "name": "Oliver Mrakovics",
+        "url": "https://www.linkedin.com/in/0l1v3rr/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SPA",
+      "Frontend"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "ui",
+      "interactive"
+    ],
+    "status": "draft",
+    "isPrivate": false
+  },
+  {
+    "id": 15,
+    "name": "WS2024 S17 - Module E",
+    "displayName": "Photos Slideshow",
+    "description": "Create an interactive photo slideshow web application that allows users to load, organize, and display photos with multiple animation themes. The application features drag-and-drop functionality, various slideshow modes (manual, auto-playing, random), multiple visual themes with CSS animations, and a command bar for quick navigation and control.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_e-photos_slideshow",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web APIs"
+    ],
+    "tags": [
+      "frontend",
+      "slideshow",
+      "photos",
+      "animations",
+      "javascript",
+      "web-apis"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 16,
+    "name": "WS2024 S17 - Module F",
+    "displayName": "Lyon Tourist Page",
+    "description": "Create a comprehensive tourist promotion website for Lyon featuring interactive elements, multimedia content, and advanced web technologies. Includes sticky navigation, call-to-action effects, map attractions, intelligent video playback, text-to-speech, custom web components, progressive web app functionality, and full accessibility compliance.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_f_lyon-tourist-page",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Components",
+      "Service Workers"
+    ],
+    "tags": [
+      "frontend",
+      "progressive-web-app",
+      "animations",
+      "web-components",
+      "accessibility",
+      "text-to-speech",
+      "responsive-design",
+      "offline-functionality"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 17,
+    "name": "WS2022 S17 - Module C",
+    "displayName": "Game Admin Portal",
+    "description": "Develop a comprehensive online browser gaming platform backend with Administrator Portal for managing users and games, plus REST API for Developer and Gaming portals. Includes user authentication, game upload functionality, score tracking, and administrative controls for user management and game moderation.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_c_game_admin_portal",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Competition 2022 Special Edition",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "PHP",
+      "MySQL",
+      "REST API"
+    ],
+    "tags": [
+      "backend",
+      "api",
+      "authentication",
+      "database"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 18,
+    "name": "WS2022 S17 - Module D",
+    "displayName": "Game Portal Frontend",
+    "description": "Develop a comprehensive frontend for an online browser gaming platform. Create a single-page application that provides user authentication, game discovery with infinite scroll, interactive game playing with score submission, user profile management, and game management functionality for developers. Focus on accessibility, responsive design, and modern frontend development practices.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_d_game_portal_fe",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Competition 2022 Special Edition",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "accessibility",
+      "responsive-design",
+      "authentication"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 19,
+    "name": "WS2022 S17 - Module F",
+    "displayName": "Game Portal Marketing Site",
+    "description": "",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_f-game_platform_marketing_page",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Competition 2022 Special Edition",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "responsive-design"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 20,
+    "name": "WS2022 S17 - Module E",
+    "displayName": "Virtual World Interactive Game",
+    "description": "Create an interactive learning game for kids featuring avatar movement, scene switching, and educational quizzes in a virtual world environment.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_e-virtual-word-interactive-game",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Competition 2022 Special Edition",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "Fong Hok Kin",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "HTML5 Canvas",
+      "Game Development",
+      "LocalStorage",
+      "API Integration"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 21,
+    "name": "ES2025 TRAINING HU S17 - Module A",
+    "displayName": "SkillShare Academy - Static Website Design",
+    "description": "Create a responsive static website for SkillShare Academy digital learning platform using HTML5 and CSS3.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_a-design_and_implementation",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills 2025 Training Competition - Hungary",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Skills IT (HU)",
+        "url": "https://skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "Responsive Design"
+    ],
+    "tags": [
+      "frontend",
+      "static website",
+      "responsive design",
+      "accessibility",
+      "semantic html",
+      "css grid",
+      "flexbox",
+      "digital learning platform",
+      "skillshare academy"
+    ],
+    "status": "published",
+    "isPrivate": false
+  },
+  {
+    "id": 22,
+    "name": "ES2025 TRAINING HU S17 - Module B",
+    "displayName": "SkillShare Academy - Dynamic Website with Server-Side Rendering",
+    "description": "Create a server-side rendered administrative interface for SkillShare Academy platform management with role-based access control and OWASP security compliance.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_b-dynamic-website-with-server-side-rendering",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills 2025 Training Competition - Hungary",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Skills IT (HU)",
+        "url": "https://skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "Server-Side Rendering",
+      "MySQL",
+      "Laravel",
+      "Next.js"
+    ],
+    "tags": [
+      "backend",
+      "server-side rendering",
+      "authentication",
+      "database design",
+      "owasp security",
+      "admin dashboard"
+    ],
+    "status": "published",
+    "isPrivate": false
+  },
+  {
+    "id": 23,
+    "name": "ES2025 TRAINING HU S17 - Module C",
+    "displayName": "SkillShare Academy REST API",
+    "description": "The task is to build a comprehensive REST API for the SkillShare Academy learning platform with authentication, course management, mentor booking, and credit system.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_c-rest-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills 2025 Training Competition - Hungary",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Skills IT (HU)",
+        "url": "https://skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "REST API",
+      "OpenAPI"
+    ],
+    "tags": [
+      "backend",
+      "api development",
+      "authentication",
+      "database",
+      "rest api"
+    ],
+    "status": "published",
+    "isPrivate": false
+  },
+  {
+    "id": 24,
+    "name": "ES2025 TRAINING HU S17 - Module D",
+    "displayName": "Interactive Frontend using an API",
+    "description": "Create a modern frontend application using a JavaScript framework to interact with the SkillShare Academy platform through a REST API. The Single Page Application includes authentication, error handling, and interactive features for course discovery, mentor booking, and credit management.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_d-interactive-frontend-using-an-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills 2025 Training Competition - Hungary",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Skills IT (HU)",
+        "url": "https://skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Vue",
+      "SPA",
+      "REST API",
+      "HTML",
+      "CSS",
+      "Chart.js"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "javascript",
+      "api consumption",
+      "authentication",
+      "interactive"
+    ],
+    "status": "published",
+    "isPrivate": false
+  },
+  {
+    "id": 25,
+    "name": "ES2025 S17 - Module A",
+    "displayName": "Offshore Wind Farm Promo Website",
+    "description": "Build a promotional static website using HTML and CSS to promote an offshore wind farm project and attract potential investors.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-module_a-static-website-design",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "design implementation",
+      "design"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 26,
+    "name": "ES2025 S17 - Module B",
+    "displayName": "Offshore Wind Farm Dynamic Platform",
+    "description": "Build a server-side rendered dynamic website for managing an offshore wind farm project with investor management, tour bookings, and admin functions.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-module_b-dynamic-website-with-server-side-rendering",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "Server-Side Rendering",
+      "PHP",
+      "Node.js",
+      "SQL",
+      "Authentication",
+      "OWASP Security"
+    ],
+    "tags": [
+      "backend",
+      "server-side rendering",
+      "database design",
+      "authentication",
+      "security",
+      "CRUD operations"
+    ],
+    "status": "published",
+    "isPrivate": true
+  },
+  {
+    "id": 27,
+    "name": "WS2017 S17 - Module A",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Abu Dhabi 2017",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "skip"
+  },
+  {
+    "id": 28,
+    "name": "WS2017 S17 - Module B",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Abu Dhabi 2017",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "skip"
+  },
+  {
+    "id": 29,
+    "name": "WS2017 S17 - Module C",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Abu Dhabi 2017",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 30,
+    "name": "WS2017 S17 - Module D",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Abu Dhabi 2017",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 31,
+    "name": "WS2017 S17 - Module E",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Abu Dhabi 2017",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 32,
+    "name": "WS2017 S17 - Module F",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Abu Dhabi 2017",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 34,
+    "name": "ES2018 S17 - Module A",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Budapest 2018",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 35,
+    "name": "ES2018 S17 - Module B",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Budapest 2018",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 36,
+    "name": "ES2018 S17 - Module C",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Budapest 2018",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "skip"
+  },
+  {
+    "id": 37,
+    "name": "ES2018 S17 - Module D",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Budapest 2018",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 38,
+    "name": "ES2018 S17 - Module E",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Budapest 2018",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 39,
+    "name": "WS2019 S17 - Module A",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 40,
+    "name": "WS2019 S17 - Module B",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "skip"
+  },
+  {
+    "id": 41,
+    "name": "WS2019 S17 - Module C",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 42,
+    "name": "WS2019 S17 - Module D",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 43,
+    "name": "WS2019 S17 - Module E",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 44,
+    "name": "WS2019 S17 - Module F",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 46,
+    "name": "ES2021 S17 - Module A",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Graz 2021",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 47,
+    "name": "ES2021 S17 - Module B",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Graz 2021",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 48,
+    "name": "ES2021 S17 - Module C",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Graz 2021",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 49,
+    "name": "ES2021 S17 - Module D",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Graz 2021",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 50,
+    "name": "ES2021 S17 - Module E",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Graz 2021",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "skip"
+  },
+  {
+    "id": 50,
+    "name": "ES2021 S17 - Module F",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Graz 2021",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 51,
+    "name": "WS2022 S17 - Module A",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Competition 2022 Special Edition",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 53,
+    "name": "WS2022 S17 - Module G",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Competition 2022 Special Edition",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "skip"
+  },
+  {
+    "id": 54,
+    "name": "WS2024 S17 - Module A",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 55,
+    "name": "WS2024 S17 - Module G",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Lyon 2024",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "skip"
+  },
+  {
+    "id": 56,
+    "name": "ES2025 S17 - Module C",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 57,
+    "name": "ES2025 S17 - Module D",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 58,
+    "name": "ES2025 S17 - Module E",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "todo"
+  },
+  {
+    "id": 59,
+    "name": "WS2022 S17 - Module B",
+    "displayName": "",
+    "description": "",
+    "url": "",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Competition 2022 Special Edition",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [],
+    "tags": [],
+    "status": "skip"
+  }
+]
