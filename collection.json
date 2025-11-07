@@ -1091,7 +1091,16 @@
     ],
     "competition": "TeamSkills 2025",
     "estTime": 4,
-    "authors": [],
+    "authors": [
+      {
+        "name": "Agybay Mukhametzhan",
+        "url": "https://github.com/agybay-it"
+      },
+      {
+        "name": "Denis Valentinovich",
+        "url": "https://github.com/denisvalentinovich"
+      }
+    ],
     "technologies": [
       "HTML",
       "CSS",
@@ -1111,6 +1120,6 @@
       "admin dashboard",
       "CSV export"
     ],
-    "isPrivate": true
+    "isPrivate": false
   }
 ]
