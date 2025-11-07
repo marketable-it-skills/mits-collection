@@ -1075,5 +1075,38 @@
       "rbac"
     ],
     "isPrivate": true
+  },
+  {
+    "id": 57,
+    "name": "TS2025 S17 - Module B",
+    "displayName": "VelOrda Bicycle Rental Admin",
+    "description": "Create a server-side rendered admin dashboard for managing a bicycle rental platform. Features include authentication, category and bicycle management, rental conditions, pricing tariffs, booking history with CSV export, moderation applications, and promotional codes. Emphasizes OWASP security, database design (3NF), and professional UI/UX.",
+    "url": "https://github.com/marketable-it-skills/s17-ts2025-module_b-bicycle-rental-admin",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "TeamSkills 2025",
+    "estTime": 4,
+    "authors": [],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Server-Side Rendering",
+      "SQL",
+      "Database Design"
+    ],
+    "tags": [
+      "backend",
+      "server-side rendering",
+      "authentication",
+      "CRUD",
+      "database design",
+      "security",
+      "OWASP",
+      "admin dashboard",
+      "CSV export"
+    ],
+    "isPrivate": true
   }
 ]
