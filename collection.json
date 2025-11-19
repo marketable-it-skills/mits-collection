@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "ES2023 S17 - Module A",
     "displayName": "AI Services Promo Website",
     "description": "This project involves creating a static, responsive website using only HTML and CSS, based on a client-provided structure and content. It must include four pages, follow accessibility (WCAG) and SEO standards, and work across mobile, tablet, and desktop viewports.",
@@ -34,7 +33,6 @@
     "isPrivate": true
   },
   {
-    "id": 2,
     "name": "ES2023 S17 - Module B",
     "displayName": "Dynamic website with server-side rendering",
     "description": "This project involves creating a dynamic website using server-side rendering techniques.",
@@ -66,11 +64,10 @@
       "admin",
       "backend"
     ],
-    "status": "draft",
+    "status": "published",
     "isPrivate": true
   },
   {
-    "id": 3,
     "name": "ES2023 S17 - Module C",
     "displayName": "Commercial Open API",
     "description": "Create a REST API that provides commercial access to AI services with authentication, quotas, billing, and error handling. Build secure endpoints that wrap ChatterBlast (chat), DreamWeaver (image generation), and MindReader (image recognition) services.",
@@ -111,7 +108,6 @@
     "isPrivate": true
   },
   {
-    "id": 4,
     "name": "ES2023 S17 - Module D",
     "displayName": "Interactive Frontend using an API",
     "description": "Create a modern frontend application using a JavaScript framework to interact with AI services through a REST API. The Single Page Application includes authentication, error handling, and interactive features for chat, image generation, and image recognition services.",
@@ -155,7 +151,6 @@
     "isPrivate": true
   },
   {
-    "id": 5,
     "name": "ES2023 S17 - Module E",
     "displayName": "Advanced Web Development",
     "description": "Advanced web development skills including automated testing, Progressive Web App (PWA) development, and custom Web Components creation. Build comprehensive test suites, create installable PWAs with offline functionality, and develop reusable web components.",
@@ -196,10 +191,9 @@
     "isPrivate": true
   },
   {
-    "id": 6,
     "name": "Taitaja 2025 S17 - Module B",
     "displayName": "Implementing the Admin Panel",
-    "description": "The competitor's task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
+    "description": "The competitor’s task is to build an admin panel for the Hobbly application, which will manage activity announcements and user accounts.",
     "url": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel",
     "skillDomainIds": [
       1
@@ -231,11 +225,9 @@
       "frontend",
       "Taitaja"
     ],
-    "status": "published",
     "isPrivate": false
   },
   {
-    "id": 7,
     "name": "WS2024 S17 - Module B",
     "displayName": "Products Management",
     "description": "We are going to create a management system for an office administrator (as known as \"admin\") to manage some made-in-France products.",
@@ -274,10 +266,9 @@
     "isPrivate": true
   },
   {
-    "id": 8,
     "name": "Taitaja 2024 S17 - Module B",
     "displayName": "Web Page Implementation",
-    "description": "The competitor's task is to build the Retro Game House Hall of Fame gallery website, showcasing top players and high scores for each game or event.",
+    "description": "The competitor’s task is to build the Retro Game House Hall of Fame gallery website, showcasing top players and high scores for each game or event.",
     "url": "https://github.com/marketable-it-skills/s17-taitaja2024-module_b-web_page_implementation",
     "skillDomainIds": [
       1
@@ -306,11 +297,9 @@
       "implementation",
       "Taitaja"
     ],
-    "status": "published",
     "isPrivate": true
   },
   {
-    "id": 9,
     "name": "WS2024 S17 - Module C",
     "displayName": "Lyon Heritage Sites",
     "description": "In this project, editors have written articles introducing notable heritage sites in Lyon, France.",
@@ -343,7 +332,7 @@
       "WorldSkills",
       "CMS"
     ],
-    "status": "draft",
+    "status": "published",
     "isPrivate": true
   },
   {
@@ -383,7 +372,6 @@
     "status": "draft"
   },
   {
-    "id": 11,
     "name": "HU-RO Training 2023 - Module A",
     "displayName": "DineEase Showcase Website",
     "description": "Create a captivating promotional website for DineEase, a revolutionary dining platform. Build a responsive HTML/CSS website showcasing restaurant search, featured restaurants, testimonials, and company information to attract new users to the DineEase platform.",
@@ -422,11 +410,9 @@
       "restaurant",
       "promotional-website"
     ],
-    "status": "draft",
     "isPrivate": false
   },
   {
-    "id": 12,
     "name": "HU-RO Training 2023 - Module B",
     "displayName": "Restaurant Owners' Hub",
     "description": "Develop a server-side rendered administration system for DineEase restaurant owners. Create a comprehensive management hub with user authentication, role-based access control, menu management, reservation handling, and review management capabilities.",
@@ -469,11 +455,9 @@
       "restaurant-management",
       "security"
     ],
-    "status": "draft",
     "isPrivate": false
   },
   {
-    "id": 13,
     "name": "HU-RO Training 2023 - Module C",
     "displayName": "Commercial API Provider",
     "description": "Create a secure REST API Gateway that provides commercial access to DineEase restaurant services. Build a robust API with authentication, caching, rate limiting, and comprehensive error handling that wraps existing unsecure services into a reliable commercial offering.",
@@ -514,11 +498,9 @@
       "restaurant",
       "commercial-api"
     ],
-    "status": "draft",
     "isPrivate": false
   },
   {
-    "id": 14,
     "name": "HU-RO Training 2023 - Module D",
     "displayName": "Interactive Guest Experience",
     "description": "Create an interactive frontend application for guests utilizing the DineEase restaurant service. Build a modern Single Page Application (SPA) using a JavaScript framework that provides users with an easy-to-navigate platform to explore restaurants, view detailed menus, read past reviews, and place orders.",
@@ -555,11 +537,9 @@
       "ui",
       "interactive"
     ],
-    "status": "draft",
     "isPrivate": false
   },
   {
-    "id": 15,
     "name": "WS2024 S17 - Module E",
     "displayName": "Photos Slideshow",
     "description": "Create an interactive photo slideshow web application that allows users to load, organize, and display photos with multiple animation themes. The application features drag-and-drop functionality, various slideshow modes (manual, auto-playing, random), multiple visual themes with CSS animations, and a command bar for quick navigation and control.",
@@ -597,7 +577,6 @@
     "isPrivate": true
   },
   {
-    "id": 16,
     "name": "WS2024 S17 - Module F",
     "displayName": "Lyon Tourist Page",
     "description": "Create a comprehensive tourist promotion website for Lyon featuring interactive elements, multimedia content, and advanced web technologies. Includes sticky navigation, call-to-action effects, map attractions, intelligent video playback, text-to-speech, custom web components, progressive web app functionality, and full accessibility compliance.",
@@ -638,7 +617,6 @@
     "isPrivate": true
   },
   {
-    "id": 17,
     "name": "WS2022 S17 - Module C",
     "displayName": "Game Admin Portal",
     "description": "Develop a comprehensive online browser gaming platform backend with Administrator Portal for managing users and games, plus REST API for Developer and Gaming portals. Includes user authentication, game upload functionality, score tracking, and administrative controls for user management and game moderation.",
@@ -677,7 +655,6 @@
     "isPrivate": true
   },
   {
-    "id": 18,
     "name": "WS2022 S17 - Module D",
     "displayName": "Game Portal Frontend",
     "description": "Develop a comprehensive frontend for an online browser gaming platform. Create a single-page application that provides user authentication, game discovery with infinite scroll, interactive game playing with score submission, user profile management, and game management functionality for developers. Focus on accessibility, responsive design, and modern frontend development practices.",
@@ -718,7 +695,6 @@
     "isPrivate": true
   },
   {
-    "id": 19,
     "name": "WS2022 S17 - Module F",
     "displayName": "Game Portal Marketing Site",
     "description": "",
@@ -755,7 +731,6 @@
     "isPrivate": true
   },
   {
-    "id": 20,
     "name": "WS2022 S17 - Module E",
     "displayName": "Virtual World Interactive Game",
     "description": "Create an interactive learning game for kids featuring avatar movement, scene switching, and educational quizzes in a virtual world environment.",
@@ -789,7 +764,6 @@
     "isPrivate": true
   },
   {
-    "id": 21,
     "name": "ES2025 TRAINING HU S17 - Module A",
     "displayName": "SkillShare Academy - Static Website Design",
     "description": "Create a responsive static website for SkillShare Academy digital learning platform using HTML5 and CSS3.",
@@ -821,11 +795,9 @@
       "digital learning platform",
       "skillshare academy"
     ],
-    "status": "published",
     "isPrivate": false
   },
   {
-    "id": 22,
     "name": "ES2025 TRAINING HU S17 - Module B",
     "displayName": "SkillShare Academy - Dynamic Website with Server-Side Rendering",
     "description": "Create a server-side rendered administrative interface for SkillShare Academy platform management with role-based access control and OWASP security compliance.",
@@ -855,11 +827,9 @@
       "owasp security",
       "admin dashboard"
     ],
-    "status": "published",
     "isPrivate": false
   },
   {
-    "id": 23,
     "name": "ES2025 TRAINING HU S17 - Module C",
     "displayName": "SkillShare Academy REST API",
     "description": "The task is to build a comprehensive REST API for the SkillShare Academy learning platform with authentication, course management, mentor booking, and credit system.",
@@ -891,11 +861,9 @@
       "database",
       "rest api"
     ],
-    "status": "published",
     "isPrivate": false
   },
   {
-    "id": 24,
     "name": "ES2025 TRAINING HU S17 - Module D",
     "displayName": "Interactive Frontend using an API",
     "description": "Create a modern frontend application using a JavaScript framework to interact with the SkillShare Academy platform through a REST API. The Single Page Application includes authentication, error handling, and interactive features for course discovery, mentor booking, and credit management.",
@@ -930,11 +898,9 @@
       "authentication",
       "interactive"
     ],
-    "status": "published",
     "isPrivate": false
   },
   {
-    "id": 25,
     "name": "ES2025 S17 - Module A",
     "displayName": "Offshore Wind Farm Promo Website",
     "description": "Build a promotional static website using HTML and CSS to promote an offshore wind farm project and attract potential investors.",
@@ -963,11 +929,9 @@
       "design implementation",
       "design"
     ],
-    "status": "published",
     "isPrivate": true
   },
   {
-    "id": 26,
     "name": "ES2025 S17 - Module B",
     "displayName": "Offshore Wind Farm Dynamic Platform",
     "description": "Build a server-side rendered dynamic website for managing an offshore wind farm project with investor management, tour bookings, and admin functions.",
@@ -1003,11 +967,9 @@
       "security",
       "CRUD operations"
     ],
-    "status": "published",
     "isPrivate": true
   },
   {
-    "id": 27,
     "name": "TS2025 S17 - Module A",
     "displayName": "Bicycle Rental Website (VelOrda)",
     "description": "The task is to build a static website using only HTML and CSS for a bicycle rental company called VelOrda. The website promotes cycling in the city and provides information about available bicycles, pricing plans, and frequently asked questions.",
@@ -1041,7 +1003,6 @@
     "isPrivate": false
   },
   {
-    "id": 56,
     "name": "ES2025 S17 - Module C",
     "displayName": "Offshore Wind Farm REST API",
     "description": "Build a secure REST API for offshore wind farm monitoring and control with authentication, role management, alerts, turbine control, and log parsing.",
@@ -1081,7 +1042,6 @@
     "isPrivate": true
   },
   {
-    "id": 57,
     "name": "TS2025 S17 - Module B",
     "displayName": "VelOrda Bicycle Rental Admin",
     "description": "Create a server-side rendered admin dashboard for managing a bicycle rental platform. Features include authentication, category and bicycle management, rental conditions, pricing tariffs, booking history with CSV export, moderation applications, and promotional codes. Emphasizes OWASP security, database design (3NF), and professional UI/UX.",
