@@ -871,6 +871,10 @@
     "skillDomainIds": [
       1
     ],
+    "languages": [
+      "EN",
+      "HU"
+    ],
     "competition": "EuroSkills 2025 Training Competition - Hungary",
     "estTime": 4,
     "authors": [
