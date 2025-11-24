@@ -1085,5 +1085,49 @@
       "CSV export"
     ],
     "isPrivate": false
+  },
+  {
+    "name": "ES2025 S17 - Module D",
+    "displayName": "Offshore Wind Farm Interactive Frontend",
+    "description": "Offshore Wind Farm Interactive Frontend using an API",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-module_d-interactive-frontend-using-an-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyril-wanner-953161295/"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-häni-953161295/"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "SPA",
+      "REST API",
+      "Authentication",
+      "3D Model",
+      "Turbine Map",
+      "Alerts",
+      "Logs",
+      "Actions"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "api-consumption",
+      "authentication",
+      "3d-model",
+      "turbine-map",
+      "alerts",
+      "logs",
+      "actions"
+    ],
+    "isPrivate": true
   }
 ]
