@@ -1129,6 +1129,7 @@
       "logs",
       "actions"
     ],
+    "status": "draft",
     "isPrivate": true
   }
 ]
