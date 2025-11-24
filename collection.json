@@ -1043,6 +1043,7 @@
       "alerts",
       "rbac"
     ],
+    "status": "draft",
     "isPrivate": true
   },
   {
