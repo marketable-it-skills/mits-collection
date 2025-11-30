@@ -372,14 +372,14 @@
     "status": "draft"
   },
   {
-    "name": "HU-RO Training 2023 - Module A",
+    "name": "EuroSkills 2023 Training HU - Module A",
     "displayName": "DineEase Showcase Website",
     "description": "Create a captivating promotional website for DineEase, a revolutionary dining platform. Build a responsive HTML/CSS website showcasing restaurant search, featured restaurants, testimonials, and company information to attract new users to the DineEase platform.",
     "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_a-dinease-showcase-website",
     "skillDomainIds": [
       1
     ],
-    "competition": "Hungary-Romania Training 2023",
+    "competition": "EuroSkills 2023 Training HU",
     "estTime": 3,
     "authors": [
       {
@@ -413,14 +413,14 @@
     "isPrivate": false
   },
   {
-    "name": "HU-RO Training 2023 - Module B",
+    "name": "EuroSkills 2023 Training HU - Module B",
     "displayName": "Restaurant Owners' Hub",
     "description": "Develop a server-side rendered administration system for DineEase restaurant owners. Create a comprehensive management hub with user authentication, role-based access control, menu management, reservation handling, and review management capabilities.",
     "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_b-restaurants-owners-hub",
     "skillDomainIds": [
       1
     ],
-    "competition": "Hungary-Romania Training 2023",
+    "competition": "EuroSkills 2023 Training HU",
     "estTime": 4,
     "authors": [
       {
@@ -458,14 +458,14 @@
     "isPrivate": false
   },
   {
-    "name": "HU-RO Training 2023 - Module C",
+    "name": "EuroSkills 2023 Training HU - Module C",
     "displayName": "Commercial API Provider",
     "description": "Create a secure REST API Gateway that provides commercial access to DineEase restaurant services. Build a robust API with authentication, caching, rate limiting, and comprehensive error handling that wraps existing unsecure services into a reliable commercial offering.",
     "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_c-commercial_api_provider",
     "skillDomainIds": [
       1
     ],
-    "competition": "Hungary-Romania Training 2023",
+    "competition": "EuroSkills 2023 Training HU",
     "estTime": 3,
     "authors": [
       {
@@ -501,14 +501,14 @@
     "isPrivate": false
   },
   {
-    "name": "HU-RO Training 2023 - Module D",
+    "name": "EuroSkills 2023 Training HU - Module D",
     "displayName": "Interactive Guest Experience",
     "description": "Create an interactive frontend application for guests utilizing the DineEase restaurant service. Build a modern Single Page Application (SPA) using a JavaScript framework that provides users with an easy-to-navigate platform to explore restaurants, view detailed menus, read past reviews, and place orders.",
     "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_d-interactive_guest_experience",
     "skillDomainIds": [
       1
     ],
-    "competition": "Hungary-Romania Training 2023",
+    "competition": "EuroSkills 2023 Training HU",
     "estTime": 4,
     "authors": [
       {
