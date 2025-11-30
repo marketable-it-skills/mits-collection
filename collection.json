@@ -501,14 +501,14 @@
     "isPrivate": false
   },
   {
-    "name": "HU-RO Training 2023 - Module D",
+    "name": "EuroSkills 2023 Training HU - Module D",
     "displayName": "Interactive Guest Experience",
     "description": "Create an interactive frontend application for guests utilizing the DineEase restaurant service. Build a modern Single Page Application (SPA) using a JavaScript framework that provides users with an easy-to-navigate platform to explore restaurants, view detailed menus, read past reviews, and place orders.",
     "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_d-interactive_guest_experience",
     "skillDomainIds": [
       1
     ],
-    "competition": "Hungary-Romania Training 2023",
+    "competition": "EuroSkills 2023 Training HU",
     "estTime": 4,
     "authors": [
       {
