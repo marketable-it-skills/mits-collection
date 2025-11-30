@@ -413,14 +413,14 @@
     "isPrivate": false
   },
   {
-    "name": "HU-RO Training 2023 - Module B",
+    "name": "EuroSkills 2023 Training HU - Module B",
     "displayName": "Restaurant Owners' Hub",
     "description": "Develop a server-side rendered administration system for DineEase restaurant owners. Create a comprehensive management hub with user authentication, role-based access control, menu management, reservation handling, and review management capabilities.",
     "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_b-restaurants-owners-hub",
     "skillDomainIds": [
       1
     ],
-    "competition": "Hungary-Romania Training 2023",
+    "competition": "EuroSkills 2023 Training HU",
     "estTime": 4,
     "authors": [
       {
