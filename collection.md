@@ -8,7 +8,7 @@
 - [ ] [Interactive Frontend using an API](https://github.com/marketable-it-skills/s17-es2023-module_d-interactive-frontend-using-an-api)
 - [ ] [Advanced Web Development](https://github.com/marketable-it-skills/s17-es2023-module_e-advanced-web-development)
 
-## Taitaja2025
+## Taitaja 2025
 
 - [ ] [Implementing the Admin Panel](https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel)
 
@@ -20,11 +20,11 @@
 - [ ] [Photos Slideshow](https://github.com/marketable-it-skills/s17-ws2024-module_e-photos_slideshow)
 - [ ] [Lyon Tourist Page](https://github.com/marketable-it-skills/s17-ws2024-module_f_lyon-tourist-page)
 
-## Taitaja2024
+## Taitaja 2024
 
 - [ ] [Web Page Implementation](https://github.com/marketable-it-skills/s17-taitaja2024-module_b-web_page_implementation)
 
-## Hungary-Romania Training 2023
+## EuroSkills 2023 Training Competition - Hungary
 
 - [ ] [DineEase Showcase Website](https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_a-dinease-showcase-website)
 - [ ] [Restaurant Owners' Hub](https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_b-restaurants-owners-hub)
