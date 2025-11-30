@@ -372,14 +372,14 @@
     "status": "draft"
   },
   {
-    "name": "HU-RO Training 2023 - Module A",
+    "name": "EuroSkills 2023 Training HU - Module A",
     "displayName": "DineEase Showcase Website",
     "description": "Create a captivating promotional website for DineEase, a revolutionary dining platform. Build a responsive HTML/CSS website showcasing restaurant search, featured restaurants, testimonials, and company information to attract new users to the DineEase platform.",
     "url": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_a-dinease-showcase-website",
     "skillDomainIds": [
       1
     ],
-    "competition": "Hungary-Romania Training 2023",
+    "competition": "EuroSkills 2023 Training HU",
     "estTime": 3,
     "authors": [
       {
