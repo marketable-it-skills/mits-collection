@@ -19,9 +19,9 @@
 | 42  | WS2019 S17 - Module D | WorldSkills Kazan 2019           | todo       |         |
 | 43  | WS2019 S17 - Module E | WorldSkills Kazan 2019           | todo       |         |
 | 44  | WS2019 S17 - Module F | WorldSkills Kazan 2019           | todo       |         |
-| 46  | ES2021 S17 - Module A | EuroSkills Graz 2021             | todo       |         |
-| 47  | ES2021 S17 - Module B | EuroSkills Graz 2021             | todo       |         |
-| 48  | ES2021 S17 - Module C | EuroSkills Graz 2021             | todo       |         |
+| 46  | ES2021 S17 - Module A | EuroSkills Graz 2021             | todo       | Mikael  |
+| 47  | ES2021 S17 - Module B | EuroSkills Graz 2021             | todo       | Mikael  |
+| 48  | ES2021 S17 - Module C | EuroSkills Graz 2021             | todo       | Mikael  |
 | 49  | ES2021 S17 - Module D | EuroSkills Graz 2021             | todo       |         |
 | 50  | ES2021 S17 - Module E | EuroSkills Graz 2021             | todo       |         |
 | 51  | WS2022 S17 - Module A | WorldSkills Special Edition 2022 | todo       |         |
@@ -31,7 +31,7 @@
 | 55  | WS2024 S17 - Module G | WorldSkills Lyon 2024            | todo       |         |
 | 56  | ES2025 S17 - Module C | EuroSkills Herning 2025          | draft      | Mikael  |
 | 57  | ES2025 S17 - Module D | EuroSkills Herning 2025          | draft      | Heikki  |
-| 58  | ES2025 S17 - Module E | EuroSkills Herning 2025          | todo       |         |
+| 58  | ES2025 S17 - Module E | EuroSkills Herning 2025          | todo       | Mikael  |
 | 59  | TS2025 S17 - Module A | EuroSkills Herning 2025          | published  | Zoltan  |
 | 60  | TS2025 S17 - Module B | EuroSkills Herning 2025          | published  | Zoltan  |
 | 61  | TS2025 S17 - Module C | EuroSkills Herning 2025          | inprogress | Zoltan  |
