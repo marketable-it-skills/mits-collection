@@ -1131,5 +1131,43 @@
     ],
     "status": "draft",
     "isPrivate": true
+  },
+  {
+    "name": "s17-ts2025-module_c-bicycle-rental-api",
+    "displayName": "Bicycle Rental REST API",
+    "description": "Build a secure REST API for a bicycle rental platform that integrates with external services for weather, traffic, and OAuth authentication. Features include bicycle rental management with dynamic pricing, user ratings, repair workflows, transaction history tracking, and deposit management. The API must adhere to OpenAPI specifications and implement robust security measures.",
+    "url": "https://github.com/marketable-it-skills/s17-ts2025-module_c-bicycle-rental-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "TurkicSkills 2025",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Agybay Mukhametzhan",
+        "url": "https://github.com/agybay-it"
+      },
+      {
+        "name": "Denis Valentinovich",
+        "url": "https://github.com/denisvalentinovich"
+      }
+    ],
+    "technologies": [
+      "REST API",
+      "OpenAPI",
+      "OAuth",
+      "SQL",
+      "Authentication",
+      "Security"
+    ],
+    "tags": [
+      "backend",
+      "rest api",
+      "authentication",
+      "database",
+      "oauth",
+      "bicycle-rental"
+    ],
+    "isPrivate": true
   }
 ]
