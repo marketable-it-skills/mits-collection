@@ -1170,5 +1170,48 @@
     ],
     "status": "published",
     "isPrivate": true
+  },
+  {
+    "name": "TS2025 S17 - Module D",
+    "displayName": "Bicycle Rental Frontend SPA",
+    "description": "Build a mobile-first Progressive Web App (PWA) for the VelOrda bicycle rental platform that consumes the REST API from Module C. Features include OAuth authentication, interactive map-based bicycle selection with real-time status updates, dynamic pricing based on weather and traffic conditions, rental management with live cost tracking, user profile with transaction history and balance operations, and work pages for bicycle owners and moderators. The application must support offline capabilities, home screen installation, and real-time data synchronization.",
+    "url": "https://github.com/marketable-it-skills/s17-ts2025-module_d-bicycle-rental-frontend",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "TurkicSkills 2025",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Agybay Mukhametzhan",
+        "url": "https://github.com/agybay-it"
+      },
+      {
+        "name": "Denis Valentinovich",
+        "url": "https://github.com/denisvalentinovich"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "SPA",
+      "PWA",
+      "REST API",
+      "OAuth",
+      "Real-time Updates",
+      "Map Interface",
+      "Mobile-First"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "pwa",
+      "mobile-first",
+      "bicycle-rental",
+      "real-time",
+      "oauth",
+      "api-consumption",
+      "map-interface"
+    ],
+    "isPrivate": true
   }
 ]
