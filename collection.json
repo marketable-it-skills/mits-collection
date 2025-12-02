@@ -1169,7 +1169,7 @@
       "bicycle-rental"
     ],
     "status": "published",
-    "isPrivate": true
+    "isPrivate": false
   },
   {
     "name": "TS2025 S17 - Module D",
