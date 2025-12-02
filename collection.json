@@ -1212,6 +1212,6 @@
       "api-consumption",
       "map-interface"
     ],
-    "isPrivate": true
+    "isPrivate": false
   }
 ]
