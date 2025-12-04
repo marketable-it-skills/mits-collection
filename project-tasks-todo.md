@@ -13,9 +13,9 @@
 | 36  | ES2018 S17 - Module C | EuroSkills Budapest 2018         | todo       |         |
 | 37  | ES2018 S17 - Module D | EuroSkills Budapest 2018         | todo       |         |
 | 38  | ES2018 S17 - Module E | EuroSkills Budapest 2018         | todo       |         |
-| 39  | WS2019 S17 - Module A | WorldSkills Kazan 2019           | todo       |         |
-| 40  | WS2019 S17 - Module B | WorldSkills Kazan 2019           | todo       |         |
-| 41  | WS2019 S17 - Module C | WorldSkills Kazan 2019           | todo       |         |
+| 39  | WS2019 S17 - Module A | WorldSkills Kazan 2019           | todo       | Heikki  |
+| 40  | WS2019 S17 - Module B | WorldSkills Kazan 2019           | todo       | Heikki  |
+| 41  | WS2019 S17 - Module C | WorldSkills Kazan 2019           | todo       | Heikki  |
 | 42  | WS2019 S17 - Module D | WorldSkills Kazan 2019           | todo       |         |
 | 43  | WS2019 S17 - Module E | WorldSkills Kazan 2019           | todo       |         |
 | 44  | WS2019 S17 - Module F | WorldSkills Kazan 2019           | todo       |         |
