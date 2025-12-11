@@ -16,9 +16,9 @@
 | 39  | WS2019 S17 - Module A | WorldSkills Kazan 2019           | todo                  | Heikki  |
 | 40  | WS2019 S17 - Module B | WorldSkills Kazan 2019           | todo                  | Heikki  |
 | 41  | WS2019 S17 - Module C | WorldSkills Kazan 2019           | todo                  | Heikki  |
-| 42  | WS2019 S17 - Module D | WorldSkills Kazan 2019           | todo                  |         |
-| 43  | WS2019 S17 - Module E | WorldSkills Kazan 2019           | todo                  |         |
-| 44  | WS2019 S17 - Module F | WorldSkills Kazan 2019           | todo                  |         |
+| 42  | WS2019 S17 - Module D | WorldSkills Kazan 2019           | todo                  | Heikki  |
+| 43  | WS2019 S17 - Module E | WorldSkills Kazan 2019           | todo                  | Heikki  |
+| 44  | WS2019 S17 - Module F | WorldSkills Kazan 2019           | todo                  | Heikki  |
 | 46  | ES2021 S17 - Module A | EuroSkills Graz 2021             | draft                 | Mikael  |
 | 47  | ES2021 S17 - Module B | EuroSkills Graz 2021             | draft                 | Mikael  |
 | 48  | ES2021 S17 - Module C | EuroSkills Graz 2021             | draft                 | Mikael  |
