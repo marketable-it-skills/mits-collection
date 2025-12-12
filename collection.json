@@ -1100,11 +1100,11 @@
     "authors": [
       {
         "name": "Cyril Wanner",
-        "url": "https://www.linkedin.com/in/cyril-wanner-953161295/"
+        "url": "https://www.linkedin.com/in/cyrilwanner"
       },
       {
         "name": "Sebastian Häni",
-        "url": "https://www.linkedin.com/in/sebastian-häni-953161295/"
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
       }
     ],
     "technologies": [
@@ -1131,5 +1131,87 @@
     ],
     "status": "draft",
     "isPrivate": true
+  },
+  {
+    "name": "TS2025 S17 - Module C",
+    "displayName": "Bicycle Rental REST API",
+    "description": "Build a secure REST API for a bicycle rental platform that integrates with external services for weather, traffic, and OAuth authentication. Features include bicycle rental management with dynamic pricing, user ratings, repair workflows, transaction history tracking, and deposit management. The API must adhere to OpenAPI specifications and implement robust security measures.",
+    "url": "https://github.com/marketable-it-skills/s17-ts2025-module_c-bicycle-rental-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "TurkicSkills 2025",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Agybay Mukhametzhan",
+        "url": "https://github.com/agybay-it"
+      },
+      {
+        "name": "Denis Valentinovich",
+        "url": "https://github.com/denisvalentinovich"
+      }
+    ],
+    "technologies": [
+      "REST API",
+      "OpenAPI",
+      "OAuth",
+      "SQL",
+      "Authentication",
+      "Security"
+    ],
+    "tags": [
+      "backend",
+      "rest api",
+      "authentication",
+      "database",
+      "oauth",
+      "bicycle-rental"
+    ],
+    "status": "published",
+    "isPrivate": false
+  },
+  {
+    "name": "TS2025 S17 - Module D",
+    "displayName": "Bicycle Rental Frontend SPA",
+    "description": "Build a mobile-first Progressive Web App (PWA) for the VelOrda bicycle rental platform that consumes the REST API from Module C. Features include OAuth authentication, interactive map-based bicycle selection with real-time status updates, dynamic pricing based on weather and traffic conditions, rental management with live cost tracking, user profile with transaction history and balance operations, and work pages for bicycle owners and moderators. The application must support offline capabilities, home screen installation, and real-time data synchronization.",
+    "url": "https://github.com/marketable-it-skills/s17-ts2025-module_d-bicycle-rental-frontend",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "TurkicSkills 2025",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "Agybay Mukhametzhan",
+        "url": "https://github.com/agybay-it"
+      },
+      {
+        "name": "Denis Valentinovich",
+        "url": "https://github.com/denisvalentinovich"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "SPA",
+      "PWA",
+      "REST API",
+      "OAuth",
+      "Real-time Updates",
+      "Map Interface",
+      "Mobile-First"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "pwa",
+      "mobile-first",
+      "bicycle-rental",
+      "real-time",
+      "oauth",
+      "api-consumption",
+      "map-interface"
+    ],
+    "isPrivate": false
   }
 ]
