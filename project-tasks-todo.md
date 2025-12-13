@@ -4,10 +4,10 @@
 | --- | --------------------- | -------------------------------- | --------------------- | ------- |
 | 27  | WS2017 S17 - Module A | WorldSkills Abu Dhabi 2017       | cancelled (wordpress) |         |
 | 28  | WS2017 S17 - Module B | WorldSkills Abu Dhabi 2017       | cancelled (wordpress) |         |
-| 29  | WS2017 S17 - Module C | WorldSkills Abu Dhabi 2017       | todo                  | Mikael  |
+| 29  | WS2017 S17 - Module C | WorldSkills Abu Dhabi 2017       | inprogress            | Mikael  |
 | 30  | WS2017 S17 - Module D | WorldSkills Abu Dhabi 2017       | todo                  | Mikael  |
 | 31  | WS2017 S17 - Module E | WorldSkills Abu Dhabi 2017       | todo                  | Mikael  |
-| 32  | WS2017 S17 - Module F | WorldSkills Abu Dhabi 2017       | todo                  |         |
+| 32  | WS2017 S17 - Module F | WorldSkills Abu Dhabi 2017       | todo                  | Mikael  |
 | 34  | ES2018 S17 - Module A | EuroSkills Budapest 2018         | todo                  |         |
 | 35  | ES2018 S17 - Module B | EuroSkills Budapest 2018         | todo                  |         |
 | 36  | ES2018 S17 - Module C | EuroSkills Budapest 2018         | todo                  |         |
@@ -24,9 +24,9 @@
 | 48  | ES2021 S17 - Module C | EuroSkills Graz 2021             | inreview              | Mikael  |
 | 49  | ES2021 S17 - Module D | EuroSkills Graz 2021             | inreview              | Mikael  |
 | 50  | ES2021 S17 - Module E | EuroSkills Graz 2021             | cancelled (wordpress) |         |
-| 51  | WS2022 S17 - Module A | WorldSkills Special Edition 2022 | todo                  |         |
-| 52  | WS2022 S17 - Module B | WorldSkills Special Edition 2022 | todo                  |         |
-| 53  | WS2022 S17 - Module G | WorldSkills Special Edition 2022 | todo                  |         |
+| 51  | WS2022 S17 - Module A | WorldSkills Special Edition 2022 | todo                  | Mikael  |
+| 52  | WS2022 S17 - Module B | WorldSkills Special Edition 2022 | todo                  | Mikael  |
+| 53  | WS2022 S17 - Module G | WorldSkills Special Edition 2022 | todo                  | Mikael  |
 | 54  | WS2024 S17 - Module A | WorldSkills Lyon 2024            | todo                  | Heikki  |
 | 55  | WS2024 S17 - Module G | WorldSkills Lyon 2024            | todo                  | Heikki  |
 | 56  | ES2025 S17 - Module C | EuroSkills Herning 2025          | draft                 | Mikael  |
