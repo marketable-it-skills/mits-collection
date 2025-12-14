@@ -17,8 +17,8 @@
 | 40  | WS2019 S17 - Module B | WorldSkills Kazan 2019           | cancelled (wordpress) | Heikki  |
 | 41  | WS2019 S17 - Module C | WorldSkills Kazan 2019           | todo                  | Heikki  |
 | 42  | WS2019 S17 - Module D | WorldSkills Kazan 2019           | todo                  | Heikki  |
-| 43  | WS2019 S17 - Module E | WorldSkills Kazan 2019           | todo                  | Heikki  |
-| 44  | WS2019 S17 - Module F | WorldSkills Kazan 2019           | todo                  | Heikki  |
+| 43  | WS2019 S17 - Module E | WorldSkills Kazan 2019           | draft                 | Heikki  |
+| 44  | WS2019 S17 - Module F | WorldSkills Kazan 2019           | draft                 | Heikki  |
 | 46  | ES2021 S17 - Module A | EuroSkills Graz 2021             | reviewed              | Mikael  |
 | 47  | ES2021 S17 - Module B | EuroSkills Graz 2021             | inreview              | Mikael  |
 | 48  | ES2021 S17 - Module C | EuroSkills Graz 2021             | inreview              | Mikael  |
@@ -27,7 +27,7 @@
 | 51  | WS2022 S17 - Module A | WorldSkills Special Edition 2022 | todo                  | Mikael  |
 | 52  | WS2022 S17 - Module B | WorldSkills Special Edition 2022 | todo                  | Mikael  |
 | 53  | WS2022 S17 - Module G | WorldSkills Special Edition 2022 | todo                  | Mikael  |
-| 54  | WS2024 S17 - Module A | WorldSkills Lyon 2024            | todo                  | Heikki  |
+| 54  | WS2024 S17 - Module A | WorldSkills Lyon 2024            | draft                 | Heikki  |
 | 55  | WS2024 S17 - Module G | WorldSkills Lyon 2024            | todo                  | Heikki  |
 | 56  | ES2025 S17 - Module C | EuroSkills Herning 2025          | draft                 | Mikael  |
 | 57  | ES2025 S17 - Module D | EuroSkills Herning 2025          | draft                 | Heikki  |
