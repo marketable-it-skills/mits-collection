@@ -28,7 +28,7 @@
 | 52  | WS2022 S17 - Module B | WorldSkills Special Edition 2022 | todo                  | Mikael  |
 | 53  | WS2022 S17 - Module G | WorldSkills Special Edition 2022 | todo                  | Mikael  |
 | 54  | WS2024 S17 - Module A | WorldSkills Lyon 2024            | draft                 | Heikki  |
-| 55  | WS2024 S17 - Module G | WorldSkills Lyon 2024            | todo                  | Heikki  |
+| 55  | WS2024 S17 - Module G | WorldSkills Lyon 2024            | cancelled (team proj) | Heikki  |
 | 56  | ES2025 S17 - Module C | EuroSkills Herning 2025          | draft                 | Mikael  |
 | 57  | ES2025 S17 - Module D | EuroSkills Herning 2025          | draft                 | Heikki  |
 | 58  | ES2025 S17 - Module E | EuroSkills Herning 2025          | draft                 | Mikael  |
