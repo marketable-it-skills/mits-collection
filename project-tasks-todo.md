@@ -24,8 +24,8 @@
 | 48  | ES2021 S17 - Module C | EuroSkills Graz 2021             | inreview              | Mikael  |
 | 49  | ES2021 S17 - Module D | EuroSkills Graz 2021             | inreview              | Mikael  |
 | 50  | ES2021 S17 - Module E | EuroSkills Graz 2021             | cancelled (wordpress) |         |
-| 51  | WS2022 S17 - Module A | WorldSkills Special Edition 2022 | todo                  | Mikael  |
-| 52  | WS2022 S17 - Module B | WorldSkills Special Edition 2022 | todo                  | Mikael  |
+| 51  | WS2022 S17 - Module A | WorldSkills Special Edition 2022 | draft                 | Mikael  |
+| 52  | WS2022 S17 - Module B | WorldSkills Special Edition 2022 | cancelled (wordpress) |         |
 | 53  | WS2022 S17 - Module G | WorldSkills Special Edition 2022 | todo                  | Mikael  |
 | 54  | WS2024 S17 - Module A | WorldSkills Lyon 2024            | draft                 | Heikki  |
 | 55  | WS2024 S17 - Module G | WorldSkills Lyon 2024            | cancelled (team proj) | Heikki  |
