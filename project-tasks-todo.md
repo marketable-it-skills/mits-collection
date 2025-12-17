@@ -9,8 +9,8 @@
 | 31  | WS2017 S17 - Module E | WorldSkills Abu Dhabi 2017       | draft                 | Mikael  |
 | 32  | WS2017 S17 - Module F | WorldSkills Abu Dhabi 2017       | draft                 | Mikael  |
 | 34  | ES2018 S17 - Module A | EuroSkills Budapest 2018         | todo                  |         |
-| 35  | ES2018 S17 - Module B | EuroSkills Budapest 2018         | todo                  |         |
-| 36  | ES2018 S17 - Module C | EuroSkills Budapest 2018         | todo                  |         |
+| 35  | ES2018 S17 - Module B | EuroSkills Budapest 2018         | todo                  | Heikki  |
+| 36  | ES2018 S17 - Module C | EuroSkills Budapest 2018         | todo                  | Heikki  |
 | 37  | ES2018 S17 - Module D | EuroSkills Budapest 2018         | todo                  |         |
 | 38  | ES2018 S17 - Module E | EuroSkills Budapest 2018         | todo                  |         |
 | 39  | WS2019 S17 - Module A | WorldSkills Kazan 2019           | todo                  | Heikki  |
