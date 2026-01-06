@@ -1341,5 +1341,47 @@
     ],
     "status": "published",
     "isPrivate": true
+  },
+  {
+    "name": "ES2021 S17 - Module A",
+    "displayName": "VIP Seating Arrangement Tool",
+    "description": "Build an interactive web tool for arranging VIP seating using drag-and-drop functionality, local storage, and browser APIs. The tool allows officers to swap VIP names in a grid, load VIP lists from various sources (cache, sample data, or external files), toggle fullscreen mode, and export the arranged list in markdown format.",
+    "url": "https://github.com/marketable-it-skills/s17-es2021-module_a-vip-seating-arrangement-tool",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills 2021",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      },
+      {
+        "name": "Thomas Makzan",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Patrick Zahnd",
+        "url": "https://linkedin.com/in/patrickzahnd"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "browser APIs",
+      "drag and drop",
+      "local storage"
+    ],
+    "status": "draft",
+    "isPrivate": true
   }
 ]
