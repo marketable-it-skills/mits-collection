@@ -1215,7 +1215,7 @@
     "isPrivate": false
   },
   {
-    "name": "s17-es2021-module_c-php-api-development",
+    "name": "ES2021 S17 - Module C",
     "displayName": "Concert Booking REST API",
     "description": "Build a RESTful API using PHP for a concert booking system that allows users to view concerts, check seating availability, make reservations, and complete ticket bookings. The API must be implemented exactly as specified, including response formats, header fields, and HTTP status codes, as it will be consumed by both web and mobile applications.",
     "url": "https://github.com/marketable-it-skills/s17-es2021-module_c-php-api-development",
