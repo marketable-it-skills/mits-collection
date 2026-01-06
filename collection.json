@@ -1213,5 +1213,49 @@
       "map-interface"
     ],
     "isPrivate": false
+  },
+  {
+    "name": "s17-es2021-module_c-php-api-development",
+    "displayName": "Concert Booking REST API",
+    "description": "Build a RESTful API using PHP for a concert booking system that allows users to view concerts, check seating availability, make reservations, and complete ticket bookings. The API must be implemented exactly as specified, including response formats, header fields, and HTTP status codes, as it will be consumed by both web and mobile applications.",
+    "url": "https://github.com/marketable-it-skills/s17-es2021-module_c-php-api-development",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills 2021",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      },
+      {
+        "name": "Thomas Makzan",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Patrick Zahnd",
+        "url": "https://linkedin.com/in/patrickzahnd"
+      }
+    ],
+    "technologies": [
+      "PHP",
+      "MySQL",
+      "REST API",
+      "Laravel"
+    ],
+    "tags": [
+      "backend",
+      "api",
+      "rest",
+      "php",
+      "mysql"
+    ],
+    "status": "draft",
+    "isPrivate": true
   }
 ]
