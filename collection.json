@@ -1302,7 +1302,7 @@
     "isPrivate": true
   },
   {
-    "name": "s17-es2021-module_b-music-concert-website",
+    "name": "ES2021 S17 - Module B",
     "displayName": "Stars in Graz Music Concert Website",
     "description": "Build a responsive one-page website using HTML and CSS to promote a music concert event. Create an MVP landing page that fills the browser viewport, then extend it to a full MMP with navigation, concert schedule, testimonials, and FAQ sections. The website must be responsive across mobile, tablet, and desktop viewports, conform to accessibility standards, and pass W3C validation.",
     "url": "https://github.com/marketable-it-skills/s17-es2021-module_b-music-concert-website",
