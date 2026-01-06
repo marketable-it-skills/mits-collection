@@ -19,10 +19,10 @@
 | 42  | WS2019 S17 - Module D | WorldSkills Kazan 2019           | draft                 | Heikki  |
 | 43  | WS2019 S17 - Module E | WorldSkills Kazan 2019           | draft                 | Heikki  |
 | 44  | WS2019 S17 - Module F | WorldSkills Kazan 2019           | draft                 | Heikki  |
-| 46  | ES2021 S17 - Module A | EuroSkills Graz 2021             | ready to publish      | Mikael  |
-| 47  | ES2021 S17 - Module B | EuroSkills Graz 2021             | ready to publish      | Mikael  |
-| 48  | ES2021 S17 - Module C | EuroSkills Graz 2021             | ready to publish      | Mikael  |
-| 49  | ES2021 S17 - Module D | EuroSkills Graz 2021             | ready to publish      | Mikael  |
+| 46  | ES2021 S17 - Module A | EuroSkills Graz 2021             | published             | Mikael  |
+| 47  | ES2021 S17 - Module B | EuroSkills Graz 2021             | published             | Mikael  |
+| 48  | ES2021 S17 - Module C | EuroSkills Graz 2021             | published             | Mikael  |
+| 49  | ES2021 S17 - Module D | EuroSkills Graz 2021             | published             | Mikael  |
 | 50  | ES2021 S17 - Module E | EuroSkills Graz 2021             | cancelled (wordpress) |         |
 | 51  | WS2022 S17 - Module A | WorldSkills Special Edition 2022 | draft                 | Mikael  |
 | 52  | WS2022 S17 - Module B | WorldSkills Special Edition 2022 | cancelled (wordpress) |         |
