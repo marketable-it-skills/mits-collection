@@ -1257,5 +1257,48 @@
     ],
     "status": "published",
     "isPrivate": true
+  },
+  {
+    "name": "ES2021 S17 - Module D",
+    "displayName": "Concert Booking Frontend",
+    "description": "Build a single page application (SPA) that consumes a RESTful API to provide a complete concert booking experience. The application enables users to discover concerts with filtering capabilities, book seats with temporary reservations, retrieve tickets, and manage bookings. The frontend must be responsive, accessible (WCAG compliant), and optimized for minimal API traffic. The application will be evaluated using automated Cypress tests and accessibility tools including axe.",
+    "url": "https://github.com/marketable-it-skills/s17-es2021-module_d-concert-booking-frontend",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills 2021",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      },
+      {
+        "name": "Thomas Makzan",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Patrick Zahnd",
+        "url": "https://linkedin.com/in/patrickzahnd"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "api consumption",
+      "accessibility",
+      "responsive design"
+    ],
+    "status": "draft",
+    "isPrivate": true
   }
 ]
