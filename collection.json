@@ -1300,5 +1300,46 @@
     ],
     "status": "draft",
     "isPrivate": true
+  },
+  {
+    "name": "s17-es2021-module_b-music-concert-website",
+    "displayName": "Stars in Graz Music Concert Website",
+    "description": "Build a responsive one-page website using HTML and CSS to promote a music concert event. Create an MVP landing page that fills the browser viewport, then extend it to a full MMP with navigation, concert schedule, testimonials, and FAQ sections. The website must be responsive across mobile, tablet, and desktop viewports, conform to accessibility standards, and pass W3C validation.",
+    "url": "https://github.com/marketable-it-skills/s17-es2021-module_b-music-concert-website",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills 2021",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      },
+      {
+        "name": "Thomas Makzan",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Patrick Zahnd",
+        "url": "https://linkedin.com/in/patrickzahnd"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "static website",
+      "design",
+      "responsive design"
+    ],
+    "status": "draft",
+    "isPrivate": true
   }
 ]
