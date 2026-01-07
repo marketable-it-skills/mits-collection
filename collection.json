@@ -828,6 +828,7 @@
       "owasp security",
       "admin dashboard"
     ],
+    "status": "draft",
     "isPrivate": false
   },
   {
