@@ -29,9 +29,9 @@
 | 53  | WS2022 S17 - Module G | WorldSkills Special Edition 2022 | cancelled (team proj) |         |
 | 54  | WS2024 S17 - Module A | WorldSkills Lyon 2024            | draft                 | Heikki  |
 | 55  | WS2024 S17 - Module G | WorldSkills Lyon 2024            | cancelled (team proj) | Heikki  |
-| 56  | ES2025 S17 - Module C | EuroSkills Herning 2025          | ready to publish      | Mikael  |
-| 57  | ES2025 S17 - Module D | EuroSkills Herning 2025          | ready to publish      | Heikki  |
-| 58  | ES2025 S17 - Module E | EuroSkills Herning 2025          | ready to publish      | Mikael  |
+| 56  | ES2025 S17 - Module C | EuroSkills Herning 2025          | published             | Mikael  |
+| 57  | ES2025 S17 - Module D | EuroSkills Herning 2025          | published             | Heikki  |
+| 58  | ES2025 S17 - Module E | EuroSkills Herning 2025          | published             | Mikael  |
 | 59  | TS2025 S17 - Module A | EuroSkills Herning 2025          | published             | Zoltan  |
 | 60  | TS2025 S17 - Module B | EuroSkills Herning 2025          | published             | Zoltan  |
 | 61  | TS2025 S17 - Module C | EuroSkills Herning 2025          | inprogress            | Zoltan  |
