@@ -1387,5 +1387,47 @@
     ],
     "status": "published",
     "isPrivate": true
+  },
+  {
+    "name": "ES2025 S17 - Module E",
+    "displayName": "Advanced Web Development - Testing, Security, and Dark Mode",
+    "description": "Build comprehensive unit tests for a JavaScript project, identify and document OWASP Top 10 security vulnerabilities, and implement a CSS dark mode toggle with system preference support and persistent user settings.",
+    "url": "https://github.com/marketable-it-skills/s17-es2025-module_e-advanced-web-development",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Herning 2025",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "Unit Testing",
+      "Mutation Testing",
+      "OWASP",
+      "Security",
+      "CSS",
+      "Dark Mode",
+      "Accessibility",
+      "WCAG"
+    ],
+    "tags": [
+      "testing",
+      "security",
+      "frontend",
+      "css",
+      "accessibility",
+      "owasp"
+    ],
+    "status": "draft",
+    "isPrivate": true
   }
 ]
