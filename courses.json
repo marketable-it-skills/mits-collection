@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "name": "Tailwind & ShadCN Tutorial",
+    "displayName": "MITS Tailwind CSS & ShadCN UI Tutorial",
+    "description": "A hands-on, step-by-step tutorial for learning Tailwind CSS and ShadCN UI by building a modern project dashboard. ",
+    "url": "https://github.com/marketable-it-skills/mits-tailwind-shadcn-tutorial",
+    "skillDomainIds": [
+      1
+    ],
+    "authors": [
+      {
+        "name": "Zoltán Sisák",
+        "url": "https://hu.linkedin.com/in/zoltan-sisak"
+      }
+    ],
+    "technologies": [
+      "React",
+      "Tailwind",
+      "ShadCN"
+    ],
+    "tags": [
+      "Themes",
+      "Components",
+      "Git"
+    ],
+    "status": "draft",
+    "moduleNames": {
+      "1": "Project Setup & First Card",
+      "2": "Color Exploration",
+      "3": "Typography & Spacing",
+      "4": "Introducing ShadCN UI",
+      "5": "Badges & Tags",
+      "6": "Card Interactions",
+      "7": "Responsive Grid Layout",
+      "8": "Component Props",
+      "9": "Theme Toggle - Dark Mode",
+      "10": "Real Data Transformation"
+    },
+    "isPrivate": false
+  }
+]
