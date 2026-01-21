@@ -37,5 +37,41 @@
       "10": "Real Data Transformation"
     },
     "isPrivate": false
+  },
+  {
+    "name": "Design Implementation Tutorial",
+    "displayName": "MITS Design & Implementation Tutorial",
+    "description": "Master HTML5 and CSS3 by building a professional 4-page website for the MITS platform - no JavaScript, no frameworks, just pure web fundamentals.",
+    "url": "https://github.com/marketable-it-skills/mits-design-implementation-tutorial",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN",
+      "HU"
+    ],
+    "authors": [
+      {
+        "name": "Zoltán Sisák",
+        "url": "https://hu.linkedin.com/in/zoltan-sisak"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "Design implementation",
+      "SEO",
+      "Accessibility",
+      "Flexbox"
+    ],
+    "status": "draft",
+    "moduleNames": {
+      "1": "HTML Structure Only",
+      "2": "CSS Fundamentals - Base & Layout",
+      "3": "Home Page Styling"
+    },
+    "isPrivate": false
   }
 ]
