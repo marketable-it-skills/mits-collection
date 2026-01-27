@@ -1503,5 +1503,41 @@
       "AJAX"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2019 S17 - Module D",
+    "displayName": "Attendee interface",
+    "description": "Build an attendee interface for an event management system. The interface enables attendees to browse upcoming events, view event agendas with session details, register for events with ticket selection and workshop enrollment, and manage authentication. Implemented using HTML, CSS, and JavaScript with RESTful API integration. The interface requires URL-based state management, error handling, and must follow provided mockups exactly using specified CSS classes and IDs.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2019-module_d-kazan-attendee-interface",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      },
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Patrick Zahnd",
+        "url": "https://linkedin.com/in/patrickzahnd"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "html",
+      "css",
+      "javascript"
+    ],
+    "isPrivate": true
   }
 ]
