@@ -1429,5 +1429,79 @@
     ],
     "status": "published",
     "isPrivate": true
+  },
+  {
+    "name": "WS2017 S17 - Module EF",
+    "displayName": "Star Battle Game",
+    "description": "Build a fully functional web-based space shooter game called Star Battle that works in modern web browsers. The game requires creating design documentation with PNG mockups, implementing a complete HTML/CSS layout with animated instructions screen, and developing interactive JavaScript functionality for spaceship control, enemy combat, fuel collection, and score tracking. The game must implement spaceship movement using hover-activated control areas, shooting mechanics with space bar controls, collision detection for enemies and asteroids, fuel management system with collection mechanics, pause/resume functionality, sound effects integration, accessibility features including font size controls, and a ranking system with server-side score registration using AJAX and PHP. The game must be developed for tablet resolution (960x600 pixels) with centering for larger screens, validate against W3C HTML5 and CSS3 standards, work correctly in Google Chrome and Mozilla Firefox, and include proper code organization and documentation.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2017-module_ef-star-battle",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills 2017",
+    "estTime": 5,
+    "authors": [
+      {
+        "name": "Marcelo Strehl",
+        "url": "https://www.linkedin.com/in/marcelo-strehl-2bb293232/"
+      },
+      {
+        "name": "Franz Stimpfl",
+        "url": "https://www.linkedin.com/in/franzstimpfl/"
+      },
+      {
+        "name": "Volha Rabychyna",
+        "url": "https://worldskills.by"
+      },
+      {
+        "name": "Heinz Jany Guzman",
+        "url": "https://www.linkedin.com/in/heinz-jany/"
+      },
+      {
+        "name": "Wan Ahmad Jailani Wan Ngah",
+        "url": "https://www.linkedin.com/in/wajailani/"
+      },
+      {
+        "name": "Richard Sui Lun Wu",
+        "url": "https://www.linkedin.com/in/dr-richard-wu-bb724866/"
+      },
+      {
+        "name": "Tsukasa Kamiyama",
+        "url": "https://worldskills.jp/en/"
+      },
+      {
+        "name": "Hassan IBNO EL FATA",
+        "url": "https://www.linkedin.com/in/hassan-ibnoelfata/"
+      },
+      {
+        "name": "Kok Leong Tan",
+        "url": "https://www.worldskills.sg/"
+      },
+      {
+        "name": "Mark DuBois",
+        "url": "https://www.linkedin.com/in/markduboiswebed/"
+      },
+      {
+        "name": "Zabin Alharbi",
+        "url": "https://www.linkedin.com/in/zabin-alharbi/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "tags": [
+      "frontend",
+      "game development",
+      "WorldSkills",
+      "interactive",
+      "accessibility",
+      "animation",
+      "canvas",
+      "AJAX"
+    ],
+    "isPrivate": true
   }
 ]
