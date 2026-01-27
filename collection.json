@@ -1539,5 +1539,48 @@
       "javascript"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2019 S17 - Module C",
+    "displayName": "Admin Interface and REST-API",
+    "description": "Build an event management system with a server-side rendered organizer interface and RESTful API for attendees. The system enables organizers to manage events, sessions, channels, rooms, and tickets with multi-tenant security. Key features include database design for event and session ratings, dynamic ticket pricing, room capacity visualization, and a comprehensive REST API for event discovery and registration. Implemented using PHP framework, MySQL, and following third normal form database design principles.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2019-module_c-kazan-admin-rest-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Sebastian Häni",
+        "url": "https://www.linkedin.com/in/sebastian-haeni/"
+      },
+      {
+        "name": "Cyril Wanner",
+        "url": "https://www.linkedin.com/in/cyrilwanner"
+      },
+      {
+        "name": "Patrick Zahnd",
+        "url": "https://linkedin.com/in/patrickzahnd"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "MySQL",
+      "PHP framework"
+    ],
+    "tags": [
+      "backend",
+      "rest-api",
+      "crud",
+      "authentication",
+      "multi-tenant",
+      "database-design",
+      "chart-visualization",
+      "event-management"
+    ],
+    "isPrivate": true
   }
 ]
