@@ -1582,5 +1582,81 @@
       "event-management"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2019 S17 - Module E",
+    "displayName": "Interactive Presenter",
+    "description": "Build an interactive presenter web application for Kazan tourism with route editor and view modes. Create interactive presentation routes with linked elements, implement WYSIWYG content editing, directional transition animations, and keyboard navigation. The application features a desktop route editor for creating interactive routes and a responsive view mode for desktop and tablet that displays presentations with smooth transitions. Implemented using HTML, CSS, and JavaScript with WCAG 2.0 compliance.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2019-module_e-kazan-interactive-presenter",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Ilya Belyakov",
+        "url": "https://en.worldskills.ru/"
+      },
+      {
+        "name": "Kenny Alejandro Rios Avila",
+        "url": "https://www.linkedin.com/in/kennyrios"
+      },
+      {
+        "name": "Diego Garcia Gonzalez",
+        "url": "https://www.linkedin.com/in/diegogarcia17/"
+      },
+      {
+        "name": "Valentino Ekaputra",
+        "url": "https://github.com/vekaputra"
+      },
+      {
+        "name": "Ruchi Pareek",
+        "url": "https://www.linkedin.com/in/ruchi-pareek/"
+      },
+      {
+        "name": "Sara HajiMollaMohammadtaher",
+        "url": "https://www.linkedin.com/company/worldskills-iran/"
+      },
+      {
+        "name": "Tran Duc Doanh",
+        "url": "https://worldskillsasean.org/"
+      },
+      {
+        "name": "Aizhan Ziyadanova",
+        "url": "https://www.linkedin.com/in/aizhanzo/"
+      },
+      {
+        "name": "Daniel Kim Fai Cheang",
+        "url": "http://www.dsal.gov.mo/"
+      },
+      {
+        "name": "Raya Al Hajri",
+        "url": "https://www.linkedin.com/in/raya-al-hajri-34627757/"
+      },
+      {
+        "name": "Jaafar Almoadhen",
+        "url": "https://www.facebook.com/skillsbahrain"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "interactive",
+      "wysiwyg",
+      "drag-and-drop",
+      "animation",
+      "accessibility",
+      "wcag"
+    ],
+    "isPrivate": true
   }
 ]
