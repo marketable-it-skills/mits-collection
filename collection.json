@@ -1793,5 +1793,65 @@
       "competition training"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2024 S17 - Module A",
+    "displayName": "Mini Speed Test Projects",
+    "description": "Create a set of mini speed Test Projects for Module A (Static Website Design) from WorldSkills 2024, implementing small, self-contained tasks across design implementation, front-end development, and back-end web functionality using the provided media assets and starter code.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2024-module_a-mini-speed-test-projects",
+    "skillDomainIds": [
+      3
+    ],
+    "competition": "WorldSkills 2024",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Leyla Santos",
+        "url": "https://linkedin.com/in/leyla-santos-39896816a"
+      },
+      {
+        "name": "Valentin Adamescu",
+        "url": "https://linkedin.com/in/valadam"
+      },
+      {
+        "name": "Seung-Iyul Ryu",
+        "url": "https://www.youtube.com/@seunglyulryu3450"
+      },
+      {
+        "name": "Zhang Ling",
+        "url": "http://www.worldskillschina.cn"
+      },
+      {
+        "name": "Ryoju Ohata",
+        "url": "https://linkedin.com/in/rj-jp"
+      },
+      {
+        "name": "Ebben Kapali",
+        "url": "https://www.worldskillsnamibia.na/"
+      },
+      {
+        "name": "Manuel J. Schaffner",
+        "url": "https://www.linkedin.com/in/manuel-j-schaffner-1631582/"
+      },
+      {
+        "name": "Kok Leong Tang",
+        "url": "https://www.worldskills.sg/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "static website"
+    ],
+    "isPrivate": true
   }
 ]
