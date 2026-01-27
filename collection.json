@@ -1800,7 +1800,7 @@
     "description": "Create a set of mini speed Test Projects for Module A (Static Website Design) from WorldSkills 2024, implementing small, self-contained tasks across design implementation, front-end development, and back-end web functionality using the provided media assets and starter code.",
     "url": "https://github.com/marketable-it-skills/s17-ws2024-module_a-mini-speed-test-projects",
     "skillDomainIds": [
-      3
+      1
     ],
     "competition": "WorldSkills 2024",
     "estTime": 3,
