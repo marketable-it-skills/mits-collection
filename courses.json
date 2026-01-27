@@ -7,6 +7,10 @@
     "skillDomainIds": [
       1
     ],
+    "languages": [
+      "EN",
+      "HU"
+    ],
     "authors": [
       {
         "name": "Zoltán Sisák",
