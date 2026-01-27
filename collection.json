@@ -1658,5 +1658,78 @@
       "wcag"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2019 S17 - Module F",
+    "displayName": "Marketing Site",
+    "description": "Build a responsive one-page marketing website using HTML and CSS promoting the Interactive Presenter service for Kazan tourism. The website includes logo, social media icons, screenshots of editor and viewer modes, interactive 'How it works' section, call-to-action elements, and content sections about service features. Must be responsive across mobile (360×640), tablet (768×1024), and desktop (1440×900) viewports. Implements web design principles, accessibility standards, and W3C validation compliance.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2019-module_f-kazan-marketing-site",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Ilya Belyakov",
+        "url": "https://en.worldskills.ru/"
+      },
+      {
+        "name": "Kenny Alejandro Rios Avila",
+        "url": "https://www.linkedin.com/in/kennyrios"
+      },
+      {
+        "name": "Diego Garcia Gonzalez",
+        "url": "https://www.linkedin.com/in/diegogarcia17/"
+      },
+      {
+        "name": "Valentino Ekaputra",
+        "url": "https://github.com/vekaputra"
+      },
+      {
+        "name": "Ruchi Pareek",
+        "url": "https://www.linkedin.com/in/ruchi-pareek/"
+      },
+      {
+        "name": "Sara HajiMollaMohammadtaher",
+        "url": "https://www.linkedin.com/company/worldskills-iran/"
+      },
+      {
+        "name": "Tran Duc Doanh",
+        "url": "https://worldskillsasean.org/"
+      },
+      {
+        "name": "Aizhan Ziyadanova",
+        "url": "https://www.linkedin.com/in/aizhanzo/"
+      },
+      {
+        "name": "Daniel Kim Fai Cheang",
+        "url": "http://www.dsal.gov.mo/"
+      },
+      {
+        "name": "Raya Al Hajri",
+        "url": "https://www.linkedin.com/in/raya-al-hajri-34627757/"
+      },
+      {
+        "name": "Jaafar Almoadhen",
+        "url": "https://www.facebook.com/skillsbahrain"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "responsive design"
+    ],
+    "tags": [
+      "frontend",
+      "responsive",
+      "marketing",
+      "one-page"
+    ],
+    "isPrivate": true
   }
 ]
