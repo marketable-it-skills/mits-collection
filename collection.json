@@ -1731,5 +1731,67 @@
       "one-page"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2022 S17 - Module A",
+    "displayName": "Speed Test Projects",
+    "description": "Practice a fast-paced set of WorldSkills 2022 Speed Test tasks covering image editing, responsive layout, JavaScript, PHP, and WordPress using original competition-style assets and scoring.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2022-module_a-speed-test",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills 2022",
+    "estTime": 1,
+    "authors": [
+      {
+        "name": "Thomas Mak",
+        "url": "https://www.linkedin.com/in/thomas-seng-hin-mak/"
+      },
+      {
+        "name": "David Cantwell",
+        "url": "https://www.linkedin.com/in/david-cantwell"
+      },
+      {
+        "name": "Chorng-shiuh Koong",
+        "url": "https://tw.linkedin.com/in/chorng-shiuh-koong-345aa32b"
+      },
+      {
+        "name": "Siew Hwa Kang",
+        "url": "https://sg.linkedin.com/in/siew-hwa-kang-26ba68174"
+      },
+      {
+        "name": "Seunglyul Ryu",
+        "url": "https://www.youtube.com/@seunglyulryu3450"
+      },
+      {
+        "name": "Bruno Medeiros",
+        "url": "https://linkedin.com/in/brunoangelomedeiros/"
+      },
+      {
+        "name": "Gilles Granger",
+        "url": "https://www.gilles-granger.fr/"
+      },
+      {
+        "name": "Ryoju Ohata",
+        "url": "https://linkedin.com/in/rj-jp"
+      },
+      {
+        "name": "Zhang Ling",
+        "url": "http://www.worldskillschina.cn"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "tags": [
+      "frontend",
+      "backend",
+      "speed test",
+      "competition training"
+    ],
+    "isPrivate": true
   }
 ]
