@@ -41,7 +41,7 @@
         "competition": "WorldSkills Abu Dhabi 2017",
         "status": "published",
         "reviewer": "Mikael",
-        "taskType": "Space Game Frontend",
+        "taskType": "Interactive Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2017-module_ef-star-battle"
     },
     {
@@ -50,7 +50,8 @@
         "competition": "EuroSkills Budapest 2018",
         "status": "todo",
         "reviewer": "",
-        "taskType": "Easing Simulator Frontend (6,5 hours)"
+        "taskType": "Interactive Frontend",
+        "repoUrl": ""
     },
     {
         "id": 7,
@@ -58,7 +59,7 @@
         "competition": "EuroSkills Budapest 2018",
         "status": "todo",
         "reviewer": "Heikki",
-        "taskType": "SSR Preorder Management (6 hours)",
+        "taskType": "Dynamic Website with Server-Side Rendering",
         "repoUrl": "https://github.com/marketable-it-skills/s17-es2018-module_b-budapest-preorder-management"
     },
     {
@@ -67,7 +68,8 @@
         "competition": "EuroSkills Budapest 2018",
         "status": "cancelled (wordpress)",
         "reviewer": "Heikki",
-        "taskType": "Wordpress Website (4 hours)"
+        "taskType": "Wordpress Website",
+        "repoUrl": ""
     },
     {
         "id": 9,
@@ -75,7 +77,7 @@
         "competition": "WorldSkills Kazan 2019",
         "status": "todo",
         "reviewer": "Heikki",
-        "taskType": "",
+        "taskType": "Speed Test Projects",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2019-module_a-kazan-mini-speed-test-projects"
     },
     {
@@ -93,7 +95,7 @@
         "competition": "WorldSkills Kazan 2019",
         "status": "published",
         "reviewer": "Heikki",
-        "taskType": "REST API Backend and SSR Admin Interface",
+        "taskType": "REST API Backend and Dynamic Website with Server-Side Rendering",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2019-module_c-kazan-admin-rest-api"
     },
     {
@@ -111,7 +113,7 @@
         "competition": "WorldSkills Kazan 2019",
         "status": "published",
         "reviewer": "Heikki",
-        "taskType": "Interactive Frontend Presenter",
+        "taskType": "Interactive Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2019-module_e-kazan-interactive-presenter"
     },
     {
@@ -129,7 +131,7 @@
         "competition": "EuroSkills Graz 2021",
         "status": "published",
         "reviewer": "Mikael",
-        "taskType": "Interactive Frontend (Browser APIs)",
+        "taskType": "Interactive Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-es2021-module_a-vip-seating-arrangement-tool"
     },
     {
@@ -170,6 +172,15 @@
     },
     {
         "id": 20,
+        "name": "ES2021 S17 - Module F",
+        "competition": "EuroSkills Graz 2021",
+        "status": "todo",
+        "reviewer": "",
+        "taskType": "Speed Test Projects",
+        "repoUrl": ""
+    },
+    {
+        "id": 21,
         "name": "WS2022 S17 - Module A",
         "competition": "WorldSkills Special Edition 2022",
         "status": "published",
@@ -178,97 +189,151 @@
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2022-module_a-speed-test"
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "WS2022 S17 - Module B",
         "competition": "WorldSkills Special Edition 2022",
         "status": "cancelled (wordpress)",
         "reviewer": "",
-        "taskType": "",
+        "taskType": "Wordpress Website",
         "repoUrl": ""
     },
     {
-        "id": 22,
+        "id": 23,
         "name": "WS2022 S17 - Module C",
         "competition": "WorldSkills Special Edition 2022",
         "status": "published",
         "reviewer": "Oliver",
-        "taskType": "REST API Backend and SSR Game Admin Portal",
+        "taskType": "REST API Backend and Dynamic Website with Server-Side Rendering",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2022-module_c_game_admin_portal"
     },
     {
-        "id": 23,
+        "id": 24,
         "name": "WS2022 S17 - Module D",
         "competition": "WorldSkills Special Edition 2022",
         "status": "published",
         "reviewer": "Oliver",
-        "taskType": "REST API Frontend for Game Portal",
+        "taskType": "REST API Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2022-module_d_game_portal_fe"
     },
     {
-        "id": 24,
+        "id": 25,
         "name": "WS2022 S17 - Module E",
         "competition": "WorldSkills Special Edition 2022",
         "status": "published",
         "reviewer": "Zoltan",
-        "taskType": "Interactive Frontend for Virtual World",
+        "taskType": "Interactive Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2022-module_e-virtual-word-interactive-game/"
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "WS2022 S17 - Module F",
         "competition": "WorldSkills Special Edition 2022",
         "status": "published",
         "reviewer": "Oliver",
-        "taskType": "Design Implementation for Marketing Site",
+        "taskType": "Design Implementation",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2022-module_f-game_platform_marketing_page"
     },
     {
-        "id": 26,
-        "name": "ES2023 S17 - Module A",
-        "competition": "EuroSkills Gdańsk 2023",
-        "status": "published",
-        "reviewer": "",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
-    },
-    {
         "id": 27,
-        "name": "ES2023 S17 - Module B",
-        "competition": "EuroSkills Gdańsk 2023",
+        "name": "EuroSkills 2023 Training HU - Module A",
+        "competition": "EuroSkills 2023 Training HU",
         "status": "published",
-        "reviewer": "",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "reviewer": "Zoltan",
+        "taskType": "Design Implementation",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_a-dinease-showcase-website"
     },
     {
         "id": 28,
-        "name": "ES2023 S17 - Module C",
-        "competition": "EuroSkills Gdańsk 2023",
+        "name": "EuroSkills 2023 Training HU - Module B",
+        "competition": "EuroSkills 2023 Training HU",
         "status": "published",
-        "reviewer": "",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "reviewer": "Zoltan",
+        "taskType": "Dynamic Website with Server-Side Rendering",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_b-restaurants-owners-hub"
     },
     {
         "id": 29,
-        "name": "ES2023 S17 - Module D",
-        "competition": "EuroSkills Gdańsk 2023",
+        "name": "EuroSkills 2023 Training HU - Module C",
+        "competition": "EuroSkills 2023 Training HU",
         "status": "published",
-        "reviewer": "",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "reviewer": "Oliver",
+        "taskType": "REST API Backend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_c-commercial_api_provider"
     },
     {
         "id": 30,
-        "name": "ES2023 S17 - Module E",
-        "competition": "EuroSkills Gdańsk 2023",
+        "name": "EuroSkills 2023 Training HU - Module D",
+        "competition": "EuroSkills 2023 Training HU",
         "status": "published",
-        "reviewer": "",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "reviewer": "Oliver",
+        "taskType": "REST API Frontend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-hu_ro_training_2023-module_d-interactive_guest_experience"
     },
     {
         "id": 31,
+        "name": "EuroSkills 2023 Training HU - Module E",
+        "competition": "EuroSkills 2023 Training HU",
+        "status": "todo",
+        "reviewer": "",
+        "taskType": "Advanced Web Development",
+        "repoUrl": ""
+    },
+    {
+        "id": 32,
+        "name": "ES2023 S17 - Module A",
+        "competition": "EuroSkills Gdańsk 2023",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "Design Implementation",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2023-module_a-design_and_implementation"
+    },
+    {
+        "id": 33,
+        "name": "ES2023 S17 - Module B",
+        "competition": "EuroSkills Gdańsk 2023",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "Dynamic Website with Server-Side Rendering",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2023-module_b-dynamic_website_with_server_side_rendering"
+    },
+    {
+        "id": 34,
+        "name": "ES2023 S17 - Module C",
+        "competition": "EuroSkills Gdańsk 2023",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "REST API Backend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2023-module_c-commercial-open-api"
+    },
+    {
+        "id": 35,
+        "name": "ES2023 S17 - Module D",
+        "competition": "EuroSkills Gdańsk 2023",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "REST API Frontend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2023-module_d-interactive-frontend-using-an-api"
+    },
+    {
+        "id": 36,
+        "name": "ES2023 S17 - Module E",
+        "competition": "EuroSkills Gdańsk 2023",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "Advanced Web Development",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2023-module_e-advanced-web-development"
+    },
+    {
+        "id": 37,
+        "name": "Taitaja 2024 S17 - Module B",
+        "competition": "Taitaja 2024",
+        "status": "published",
+        "reviewer": "Margit",
+        "taskType": "Interactive Frontend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-taitaja2024-module_b-web_page_implementation"
+    },
+    {
+        "id": 38,
         "name": "WS2024 S17 - Module A",
         "competition": "WorldSkills Lyon 2024",
         "status": "published",
@@ -277,7 +342,7 @@
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2024-module_a-mini-speed-test-projects"
     },
     {
-        "id": 32,
+        "id": 39,
         "name": "WS2024 S17 - Module B",
         "competition": "WorldSkills Lyon 2024",
         "status": "published",
@@ -286,52 +351,106 @@
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2024-module_b-product-management"
     },
     {
-        "id": 33,
+        "id": 40,
         "name": "WS2024 S17 - Module C",
         "competition": "WorldSkills Lyon 2024",
         "status": "published",
         "reviewer": "Zoltan",
-        "taskType": "SSR CMS",
+        "taskType": "Dynamic Website with Server-Side Rendering",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2024-module_c-lyon-heritage-site"
     },
     {
-        "id": 34,
+        "id": 41,
         "name": "WS2024 S17 - Module D",
         "competition": "WorldSkills Lyon 2024",
         "status": "published",
         "reviewer": "Zoltan",
-        "taskType": "Interactive Frontend using an API",
+        "taskType": "Interactive Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2024-module_d-lyon-mobile-web-service"
     },
     {
-        "id": 35,
+        "id": 42,
         "name": "WS2024 S17 - Module E",
         "competition": "WorldSkills Lyon 2024",
         "status": "published",
-        "reviewer": "Zoltan",
+        "reviewer": "Oliver",
         "taskType": "Interactive Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2024-module_e-photos_slideshow"
     },
     {
-        "id": 36,
+        "id": 43,
         "name": "WS2024 S17 - Module F",
         "competition": "WorldSkills Lyon 2024",
         "status": "published",
-        "reviewer": "Zoltan",
+        "reviewer": "Oliver",
         "taskType": "Design Implementation",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2024-module_f-lyon-tourist-page"
     },
     {
-        "id": 37,
+        "id": 44,
+        "name": "Taitaja 2025 S17 - Module B",
+        "competition": "Taitaja 2025",
+        "status": "published",
+        "reviewer": "Margit",
+        "taskType": "Dynamic Website with Server-Side Rendering",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-taitaja2025-module_b-implementing_the_admin_panel"
+    },
+    {
+        "id": 45,
+        "name": "ES2025 Training HU S17 - Module A",
+        "competition": "EuroSkills 2025 Training Competition - Hungary",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "Design Implementation",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_a-design_and_implementation"
+    },
+    {
+        "id": 46,
+        "name": "ES2025 Training HU S17 - Module B",
+        "competition": "EuroSkills 2025 Training Competition - Hungary",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "Dynamic Website with Server-Side Rendering",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_b-dynamic-website-with-server-side-rendering"
+    },
+    {
+        "id": 47,
+        "name": "ES2025 Training HU S17 - Module C",
+        "competition": "EuroSkills 2025 Training Competition - Hungary",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "REST API Backend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_c-rest-api"
+    },
+    {
+        "id": 48,
+        "name": "ES2025 Training HU S17 - Module D",
+        "competition": "EuroSkills 2025 Training Competition - Hungary",
+        "status": "published",
+        "reviewer": "Zoltan",
+        "taskType": "REST API Frontend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-training-hu-module_d-interactive-frontend-using-an-api"
+    },
+    {
+        "id": 49,
+        "name": "ES2025 Training HU S17 - Module E",
+        "competition": "EuroSkills 2025 Training Competition - Hungary",
+        "status": "todo",
+        "reviewer": "",
+        "taskType": "Advanced Web Development",
+        "repoUrl": ""
+    },
+    {
+        "id": 50,
         "name": "ES2025 S17 - Module A",
         "competition": "EuroSkills Herning 2025",
         "status": "published",
         "reviewer": "Zoltan",
-        "taskType": "Static Website Design",
+        "taskType": "Design Implementation",
         "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-module_a-static-website-design"
     },
     {
-        "id": 38,
+        "id": 51,
         "name": "ES2025 S17 - Module B",
         "competition": "EuroSkills Herning 2025",
         "status": "published",
@@ -340,7 +459,7 @@
         "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-module_b-dynamic-website-with-server-side-rendering"
     },
     {
-        "id": 39,
+        "id": 52,
         "name": "ES2025 S17 - Module C",
         "competition": "EuroSkills Herning 2025",
         "status": "published",
@@ -349,16 +468,16 @@
         "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-module_c-rest-api"
     },
     {
-        "id": 40,
+        "id": 53,
         "name": "ES2025 S17 - Module D",
         "competition": "EuroSkills Herning 2025",
         "status": "published",
         "reviewer": "Heikki",
-        "taskType": "Interactive Frontend using an API",
+        "taskType": "Interactive Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-module_d-interactive-frontend-using-an-api"
     },
     {
-        "id": 41,
+        "id": 54,
         "name": "ES2025 S17 - Module E",
         "competition": "EuroSkills Herning 2025",
         "status": "published",
@@ -367,48 +486,48 @@
         "repoUrl": "https://github.com/marketable-it-skills/s17-es2025-module_e-advanced-web-development"
     },
     {
-        "id": 42,
+        "id": 55,
         "name": "TS2025 S17 - Module A",
-        "competition": "EuroSkills Herning 2025",
+        "competition": "TurkicSkills 2025",
         "status": "published",
         "reviewer": "Zoltan",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "taskType": "Design Implementation",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-ts2025-module_a-static-website-design"
     },
     {
-        "id": 43,
+        "id": 56,
         "name": "TS2025 S17 - Module B",
-        "competition": "EuroSkills Herning 2025",
+        "competition": "TurkicSkills 2025",
         "status": "published",
         "reviewer": "Zoltan",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "taskType": "Dynamic Website with Server-Side Rendering",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-ts2025-module_b-bicycle-rental-admin"
     },
     {
-        "id": 44,
+        "id": 57,
         "name": "TS2025 S17 - Module C",
-        "competition": "EuroSkills Herning 2025",
-        "status": "inprogress",
+        "competition": "TurkicSkills 2025",
+        "status": "published",
         "reviewer": "Zoltan",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "taskType": "REST API Backend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-ts2025-module_c-bicycle-rental-api"
     },
     {
-        "id": 45,
+        "id": 58,
         "name": "TS2025 S17 - Module D",
-        "competition": "EuroSkills Herning 2025",
-        "status": "todo",
+        "competition": "TurkicSkills 2025",
+        "status": "published",
         "reviewer": "Zoltan",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "taskType": "REST API Frontend",
+        "repoUrl": "https://github.com/marketable-it-skills/s17-ts2025-module_d-bicycle-rental-frontend"
     },
     {
-        "id": 46,
+        "id": 59,
         "name": "TS2025 S17 - Module E",
-        "competition": "EuroSkills Herning 2025",
+        "competition": "TurkicSkills 2025",
         "status": "todo",
-        "reviewer": "Zoltan",
-        "taskType": "",
-        "repoUrl": "https://github.com/marketable-it-skills/"
+        "reviewer": "",
+        "taskType": "Speed Test Projects",
+        "repoUrl": ""
     }
 ]
