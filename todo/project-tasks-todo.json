@@ -30,7 +30,7 @@
         "id": 4,
         "name": "WS2017 S17 - Module D",
         "competition": "WorldSkills Abu Dhabi 2017",
-        "status": "inprogress",
+        "status": "draft",
         "reviewer": "Mikael",
         "taskType": "REST API Frontend",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2017-module_d-transportation-routing-frontend"
@@ -57,7 +57,7 @@
         "id": 7,
         "name": "ES2018 S17 - Module B",
         "competition": "EuroSkills Budapest 2018",
-        "status": "todo",
+        "status": "ready to publish",
         "reviewer": "Heikki",
         "taskType": "Dynamic Website with Server-Side Rendering",
         "repoUrl": "https://github.com/marketable-it-skills/s17-es2018-module_b-budapest-preorder-management"
@@ -75,7 +75,7 @@
         "id": 9,
         "name": "WS2019 S17 - Module A",
         "competition": "WorldSkills Kazan 2019",
-        "status": "todo",
+        "status": "draft",
         "reviewer": "Heikki",
         "taskType": "Speed Test Projects",
         "repoUrl": "https://github.com/marketable-it-skills/s17-ws2019-module_a-kazan-mini-speed-test-projects"
