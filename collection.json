@@ -1986,5 +1986,38 @@
       "API integration"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "ES2018 S17 - Module B",
+    "displayName": "Pre-order Management",
+    "description": "Build an online pre-order website for selling t-shirts and accessories with personalized design symbols. The system includes a public-facing e-commerce interface with shopping cart functionality and an admin area for managing design symbols, navigation menus, and pre-orders. Key features include product customization with design symbols, color selection, cart management, server-side checkout process, and order status management. Implemented using HTML, CSS, JavaScript, PHP, and MySQL with JSON data exchange. The public interface requires mobile-responsive design and HTML5 validation, while the admin area is optimized for desktop use.",
+    "url": "https://github.com/marketable-it-skills/s17-es2018-module_b-budapest-preorder-management",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Budapest 2018",
+    "estTime": 7,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "MySQL"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "backend",
+      "e-commerce",
+      "JSON",
+      "UI/UX"
+    ],
+    "isPrivate": true
   }
 ]
