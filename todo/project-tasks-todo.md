@@ -4,7 +4,7 @@
 | --- | --------------------- | -------------------------------- | --------------------- | ------- |
 | 27  | WS2017 S17 - Module A | WorldSkills Abu Dhabi 2017       | cancelled (wordpress) |         |
 | 28  | WS2017 S17 - Module B | WorldSkills Abu Dhabi 2017       | cancelled (wordpress) |         |
-| 29  | WS2017 S17 - Module C | WorldSkills Abu Dhabi 2017       | inprogress            | Mikael  |
+| 29  | WS2017 S17 - Module C | WorldSkills Abu Dhabi 2017       | draft                 | Mikael  |
 | 30  | WS2017 S17 - Module D | WorldSkills Abu Dhabi 2017       | draft                 | Mikael  |
 | 31  | WS2017 S17 - Module EF| WorldSkills Abu Dhabi 2017       | published             | Mikael  |
 | 34  | ES2018 S17 - Module A | EuroSkills Budapest 2018         | todo                  |         |
