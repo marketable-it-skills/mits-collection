@@ -1853,5 +1853,67 @@
       "static website"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2019 S17 - Module A",
+    "displayName": "Mini Speed Test Projects",
+    "description": "Create a collection of mini speed test tasks across four categories (Website Design, Layout, Front-End Development, Back-End Development) from WorldSkills Kazan 2019. Implement small, self-contained tasks using HTML, CSS, JavaScript, and PHP. Students complete selected tasks based on competition instructions rather than all tasks. Tasks include image manipulation, CSS animations, interactive components, and PHP functionality using provided media assets and starter code.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2019-module_a-kazan-mini-speed-test-projects",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Marcelo Strehl",
+        "url": "https://www.linkedin.com/in/marcelo-strehl-2bb293232/"
+      },
+      {
+        "name": "Seunglyul Ryu",
+        "url": "https://www.youtube.com/@seunglyulryu3450"
+      },
+      {
+        "name": "Abraham Quesada",
+        "url": "https://cr.linkedin.com/in/abraham-alonso-quesada-castro-34695771"
+      },
+      {
+        "name": "Ilya Belyakov",
+        "url": "https://en.worldskills.ru/"
+      },
+      {
+        "name": "Chorng-Shiuh Koong",
+        "url": "https://tw.linkedin.com/in/chorng-shiuh-koong-345aa32b"
+      },
+      {
+        "name": "Manuel Schaffner",
+        "url": "https://ch.linkedin.com/in/manuel-j-schaffner-1631582"
+      },
+      {
+        "name": "Siew Hwa Kang",
+        "url": "https://sg.linkedin.com/in/siew-hwa-kang-26ba68174"
+      },
+      {
+        "name": "Zoltán Sisák",
+        "url": "https://hu.linkedin.com/in/zoltan-sisak"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "json"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "static website"
+    ],
+    "isPrivate": true
   }
 ]
