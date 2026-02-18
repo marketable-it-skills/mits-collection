@@ -2019,5 +2019,79 @@
       "UI/UX"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2017 S17 - Module C",
+    "displayName": "Transportation Routing REST API",
+    "description": "Build a RESTful web service API for a public transportation route planning system. The API enables users to find optimal routes between stations, manage places and schedules, and track route selection history. The system supports three user roles (public, authenticated user, admin) and requires JSON-only request/response formats. The API must implement authentication with token-based authorization, CRUD operations for places and schedules, and route search functionality with transfer support between multiple transportation lines.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2017-module_c-transportation-routing-api",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills 2017",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Hantze Sudarma",
+        "url": "https://id.linkedin.com/in/hantze-sudarma"
+      },
+      {
+        "name": "Ilya Belyakov",
+        "url": "https://en.worldskills.ru/"
+      },
+      {
+        "name": "Diyaa BenKhadra",
+        "url": "https://ae.linkedin.com/in/diyaa-ben-khadra-3783007"
+      },
+      {
+        "name": "Seung Lyul Ryu",
+        "url": "https://www.youtube.com/@seunglyulryu3450"
+      },
+      {
+        "name": "Settachok Saennam",
+        "url": "https://th.linkedin.com/in/settachok"
+      },
+      {
+        "name": "Manuel Schaffner",
+        "url": "https://ch.linkedin.com/in/manuel-j-schaffner-1631582"
+      },
+      {
+        "name": "Chorng-Shiuh Koong",
+        "url": "https://tw.linkedin.com/in/chorng-shiuh-koong-345aa32b"
+      },
+      {
+        "name": "Zoltán Sisák",
+        "url": "https://hu.linkedin.com/in/zoltan-sisak"
+      },
+      {
+        "name": "Bin Mu",
+        "url": "http://www.worldskillschina.cn"
+      },
+      {
+        "name": "Zhanar Kubzhasarova",
+        "url": "https://worldskills.kz"
+      },
+      {
+        "name": "Jaafar Mohammed Almoadhen",
+        "url": "https://www.facebook.com/skillsbahrain"
+      }
+    ],
+    "technologies": [
+      "REST API",
+      "JSON",
+      "MySQL",
+      "Authentication",
+      "Token-based Authorization"
+    ],
+    "tags": [
+      "backend",
+      "api",
+      "rest",
+      "database",
+      "authentication",
+      "routing",
+      "public-transportation"
+    ],
+    "isPrivate": true
   }
 ]
