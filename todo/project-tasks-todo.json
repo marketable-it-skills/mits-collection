@@ -21,7 +21,7 @@
     "id": 3,
     "name": "WS2017 S17 - Module C",
     "competition": "WorldSkills Abu Dhabi 2017",
-    "status": "draft",
+    "status": "published",
     "reviewer": "Mikael",
     "taskType": "REST API Backend",
     "repoUrl": "https://github.com/marketable-it-skills/s17-ws2017-module_c-transportation-routing-api"
