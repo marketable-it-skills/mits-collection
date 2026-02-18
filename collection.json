@@ -1853,5 +1853,171 @@
       "static website"
     ],
     "isPrivate": true
+  },
+  {
+    "name": "WS2019 S17 - Module A",
+    "displayName": "Mini Speed Test Projects",
+    "description": "Create a collection of mini speed test tasks across four categories (Website Design, Layout, Front-End Development, Back-End Development) from WorldSkills Kazan 2019. Implement small, self-contained tasks using HTML, CSS, JavaScript, and PHP. Students complete selected tasks based on competition instructions rather than all tasks. Tasks include image manipulation, CSS animations, interactive components, and PHP functionality using provided media assets and starter code.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2019-module_a-kazan-mini-speed-test-projects",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills Kazan 2019",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      },
+      {
+        "name": "Marcelo Strehl",
+        "url": "https://www.linkedin.com/in/marcelo-strehl-2bb293232/"
+      },
+      {
+        "name": "Seunglyul Ryu",
+        "url": "https://www.youtube.com/@seunglyulryu3450"
+      },
+      {
+        "name": "Abraham Quesada",
+        "url": "https://cr.linkedin.com/in/abraham-alonso-quesada-castro-34695771"
+      },
+      {
+        "name": "Ilya Belyakov",
+        "url": "https://en.worldskills.ru/"
+      },
+      {
+        "name": "Chorng-Shiuh Koong",
+        "url": "https://tw.linkedin.com/in/chorng-shiuh-koong-345aa32b"
+      },
+      {
+        "name": "Manuel Schaffner",
+        "url": "https://ch.linkedin.com/in/manuel-j-schaffner-1631582"
+      },
+      {
+        "name": "Siew Hwa Kang",
+        "url": "https://sg.linkedin.com/in/siew-hwa-kang-26ba68174"
+      },
+      {
+        "name": "Zoltán Sisák",
+        "url": "https://hu.linkedin.com/in/zoltan-sisak"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "json"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "static website"
+    ],
+    "isPrivate": true
+  },
+  {
+    "name": "WS2017 S17 - Module D",
+    "displayName": "Transportation Routing Frontend",
+    "description": "Build a front-end web application for a public transportation routing system that allows users to search for routes between locations, view routes on an interactive map, and manage their transportation preferences. The application must implement user authentication, route search with autocomplete, route list display with transfer information, interactive map visualization with place markers and route lines, route selection history tracking, and admin functionality for place management. The application must be responsive and work across desktop (1440px), tablet (768px), and mobile (320px) viewports, communicate with a backend REST API, and support dynamic data updates.",
+    "url": "https://github.com/marketable-it-skills/s17-ws2017-module_d-transportation-routing-frontend",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "WorldSkills 2017",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Hantze Sudarma",
+        "url": "https://id.linkedin.com/in/hantze-sudarma"
+      },
+      {
+        "name": "Ilya Belyakov",
+        "url": "https://en.worldskills.ru/"
+      },
+      {
+        "name": "Diyaa Ben Khadra",
+        "url": "https://ae.linkedin.com/in/diyaa-ben-khadra-3783007"
+      },
+      {
+        "name": "Seung Lyul Ryu",
+        "url": "https://www.youtube.com/@seunglyulryu3450"
+      },
+      {
+        "name": "Settachok Saennam",
+        "url": "https://th.linkedin.com/in/settachok"
+      },
+      {
+        "name": "Manuel Schaffner",
+        "url": "https://ch.linkedin.com/in/manuel-j-schaffner-1631582"
+      },
+      {
+        "name": "Chorng-Shiuh Koong",
+        "url": "https://tw.linkedin.com/in/chorng-shiuh-koong-345aa32b"
+      },
+      {
+        "name": "Zoltán Sisák",
+        "url": "https://hu.linkedin.com/in/zoltan-sisak"
+      },
+      {
+        "name": "Bin Mu",
+        "url": "http://www.worldskillschina.cn"
+      },
+      {
+        "name": "Zhanar Kubzhasarova",
+        "url": "https://worldskills.kz"
+      },
+      {
+        "name": "Jaafar Mohammed Almoadhen",
+        "url": "https://www.facebook.com/skillsbahrain"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "web application",
+      "WorldSkills",
+      "transportation",
+      "routing",
+      "API integration"
+    ],
+    "isPrivate": true
+  },
+  {
+    "name": "ES2018 S17 - Module B",
+    "displayName": "Pre-order Management",
+    "description": "Build an online pre-order website for selling t-shirts and accessories with personalized design symbols. The system includes a public-facing e-commerce interface with shopping cart functionality and an admin area for managing design symbols, navigation menus, and pre-orders. Key features include product customization with design symbols, color selection, cart management, server-side checkout process, and order status management. Implemented using HTML, CSS, JavaScript, PHP, and MySQL with JSON data exchange. The public interface requires mobile-responsive design and HTML5 validation, while the admin area is optimized for desktop use.",
+    "url": "https://github.com/marketable-it-skills/s17-es2018-module_b-budapest-preorder-management",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Budapest 2018",
+    "estTime": 7,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "MySQL"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "backend",
+      "e-commerce",
+      "JSON",
+      "UI/UX"
+    ],
+    "isPrivate": true
   }
 ]
