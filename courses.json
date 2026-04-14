@@ -4,16 +4,29 @@
     "displayName": "MITS Tailwind CSS & ShadCN UI Tutorial",
     "description": "A hands-on, step-by-step tutorial for learning Tailwind CSS and ShadCN UI by building a modern project dashboard. ",
     "url": "https://github.com/marketable-it-skills/mits-tailwind-shadcn-tutorial",
-    "skillDomainIds": [1],
-    "languages": ["EN", "HU"],
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN",
+      "HU"
+    ],
     "authors": [
       {
         "name": "Zoltán Sisák",
         "url": "https://hu.linkedin.com/in/zoltan-sisak"
       }
     ],
-    "technologies": ["React", "Tailwind", "ShadCN"],
-    "tags": ["Themes", "Components", "Git"],
+    "technologies": [
+      "React",
+      "Tailwind",
+      "ShadCN"
+    ],
+    "tags": [
+      "Themes",
+      "Components",
+      "Git"
+    ],
     "status": "published",
     "moduleNames": {
       "1": "Project Setup & First Card",
@@ -34,16 +47,29 @@
     "displayName": "MITS Design & Implementation Tutorial",
     "description": "Master HTML5 and CSS3 by building a professional 4-page website for the MITS platform - no JavaScript, no frameworks, just pure web fundamentals.",
     "url": "https://github.com/marketable-it-skills/mits-design-implementation-tutorial",
-    "skillDomainIds": [1],
-    "languages": ["EN", "HU"],
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN",
+      "HU"
+    ],
     "authors": [
       {
         "name": "Zoltán Sisák",
         "url": "https://hu.linkedin.com/in/zoltan-sisak"
       }
     ],
-    "technologies": ["HTML", "CSS"],
-    "tags": ["Design implementation", "SEO", "Accessibility", "Flexbox"],
+    "technologies": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "Design implementation",
+      "SEO",
+      "Accessibility",
+      "Flexbox"
+    ],
     "status": "draft",
     "moduleNames": {
       "1": "HTML Structure Only",
@@ -57,8 +83,13 @@
     "displayName": "MITS Tailwind CSS v4 Tutorial",
     "description": "Build a complete, responsive hiking blog from scratch using Tailwind CSS v4 and Vite — utility-first styling, custom design tokens, responsive grid layouts, hover animations, and a dark mode toggle persisted via localStorage.",
     "url": "https://github.com/marketable-it-skills/mits-tailwind-tutorial",
-    "skillDomainIds": [1],
-    "languages": ["EN", "HU"],
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN",
+      "HU"
+    ],
     "authors": [
       {
         "name": "Katalin Oláh",
@@ -69,9 +100,18 @@
         "url": "https://hu.linkedin.com/in/zoltan-sisak"
       }
     ],
-    "technologies": ["Tailwind", "Vite", "JavaScript"],
-    "tags": ["Dark mode", "Responsive", "Grid", "Git"],
-    "status": "draft",
+    "technologies": [
+      "Tailwind",
+      "Vite",
+      "JavaScript"
+    ],
+    "tags": [
+      "Dark mode",
+      "Responsive",
+      "Grid",
+      "Git"
+    ],
+    "status": "published",
     "moduleNames": {
       "1": "Project Setup + First Tailwind Classes + Nav + Hero",
       "2": "Content Sections + Grid Layouts + Hover Effects",
