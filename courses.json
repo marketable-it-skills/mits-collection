@@ -68,13 +68,21 @@
       "Design implementation",
       "SEO",
       "Accessibility",
-      "Flexbox"
+      "Flexbox",
+      "CSS Grid",
+      "Responsive Design",
+      "GitHub Pages"
     ],
-    "status": "draft",
+    "status": "published",
     "moduleNames": {
       "1": "HTML Structure Only",
       "2": "CSS Fundamentals - Base & Layout",
-      "3": "Home Page Styling"
+      "3": "Home Page Styling",
+      "4": "About Page Styling",
+      "5": "Guide & Contribute Pages Styling",
+      "6": "Polish & Advanced CSS Techniques",
+      "7": "Responsive Design - Mobile First",
+      "8": "Accessibility, SEO & Production Deployment"
     },
     "isPrivate": false
   },
