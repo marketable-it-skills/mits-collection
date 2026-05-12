@@ -345,7 +345,6 @@
     "isPrivate": true
   },
   {
-    "id": 10,
     "name": "WS2024 S17 - Module D",
     "displayName": "Lyon Mobile Web Service",
     "description": "In this project, you will create a mobile web application that provides access to essential service data for the city of Lyon.",
@@ -365,7 +364,7 @@
       },
       {
         "name": "Fong Hok Kin",
-        "url": ""
+        "url": "https://worldskills.org"
       }
     ],
     "technologies": [
@@ -378,7 +377,9 @@
       "web service",
       "WorldSkills"
     ],
-    "status": "draft"
+    "status": "published",
+    "publishedAt": "2026-05-01",
+    "isPrivate": true
   },
   {
     "name": "EuroSkills 2023 Training HU - Module A",
