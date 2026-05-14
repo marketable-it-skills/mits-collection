@@ -367,7 +367,8 @@
       }
     ],
     "origin": {
-      "owner": "worldskills"
+      "owner": "worldskills",
+      "source": "https://worldskills.org/internal/competition-documentation/lyon-2024/test-projects/"
     },
     "technologies": [
       "HTML",
