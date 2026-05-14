@@ -366,6 +366,9 @@
         "url": "https://worldskills.org"
       }
     ],
+    "origin": {
+      "owner": "worldskills"
+    },
     "technologies": [
       "HTML",
       "JavaScript"
