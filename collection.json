@@ -2307,5 +2307,39 @@
     "status": "published",
     "publishedAt": "2026-06-01",
     "isPrivate": false
+  },
+  {
+    "name": "ES2027 HU S17 - Module B",
+    "displayName": "Module B – Speedtest",
+    "description": "A set of frontend tasks (HTML, CSS, JavaScript) including animations, canvas drawing, media handling and algorithm problems.",
+    "url": "https://github.com/marketable-it-skills/s17-es2027-hu-national-final-module-b",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "EuroSkills 2027 HU National Final",
+    "estTime": 1,
+    "authors": [
+      {
+        "name": "Skills IT Hungary",
+        "url": "https://www.skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "algorithms",
+      "canvas",
+      "animations"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-06-01",
+    "isPrivate": false
   }
 ]
