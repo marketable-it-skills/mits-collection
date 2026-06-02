@@ -2273,5 +2273,39 @@
     ],
     "publishedAt": "2026-05-01",
     "isPrivate": true
+  },
+  {
+    "name": "ES2027 HU S17 - Module A",
+    "displayName": "SkillShare Academy Snake Game",
+    "description": "Build a single-page, branded Snake-style game for SkillShare Academy in which the player guides a Student across a 20×20 grid to collect IT Skills, grow their Knowledge Base, and avoid Burnout and Spaghetti Code. Implement the Start, Game Board, and Game Over screens, a heads-up display with Certificates earned, Developer level, and Best run scores (persisted across reloads), full keyboard controls, pause/resume, and event-driven animations. Use a JavaScript framework of your choice or Vanilla JavaScript, with a responsive, accessible, dark-themed UI following the SkillShare Academy style guide.",
+    "url": "https://github.com/marketable-it-skills/s17-es2027-hu-national-final-module-a",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "EuroSkills 2027 HU National Final",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Skills IT Hungary",
+        "url": "https://www.skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "game",
+      "javascript",
+      "single-page application"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-06-01",
+    "isPrivate": false
   }
 ]
