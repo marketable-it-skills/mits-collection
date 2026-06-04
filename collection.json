@@ -761,7 +761,7 @@
   {
     "name": "WS2022 S17 - Module F",
     "displayName": "Game Portal Marketing Site",
-    "description": "",
+    "description": "Create a responsive single-page marketing website for a new game platform to present its launch vision. Design desktop and mobile versions, include a social-network-ready showcase graphic, build a non-JavaScript feature toggle section, and deliver accessibility-focused HTML/CSS implementation aligned with WCAG 2.1 guidance.",
     "url": "https://github.com/marketable-it-skills/s17-ws2022-module_f-game_platform_marketing_page",
     "skillDomainIds": [
       1
@@ -793,7 +793,9 @@
     "tags": [
       "frontend",
       "design",
-      "responsive-design"
+      "responsive-design",
+      "accessibility",
+      "marketing-page"
     ],
     "status": "published",
     "publishedAt": "2026-05-01",
