@@ -2378,6 +2378,6 @@
     ],
     "publishedAt": "2026-06-09",
     "status": "draft",
-    "isPrivate": false
+    "isPrivate": true
   }
 ]
