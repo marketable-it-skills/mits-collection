@@ -2343,5 +2343,41 @@
     "status": "published",
     "publishedAt": "2026-06-01",
     "isPrivate": false
+  },
+  {
+    "name": "ES2018 S17 - Module A",
+    "displayName": "Easing Simulator",
+    "description": "Build a responsive easing simulator that lets users explore selected easing functions with interactive options, a simulation chart, and slider-based playback. The interface must support randomized themes and JSON-driven function data while keeping the HTML and CSS standards-compliant.",
+    "url": "https://github.com/marketable-it-skills/s17-es2018-module_a-easing-simulator",
+    "skillDomainIds": [
+      1
+    ],
+    "competition": "EuroSkills Budapest 2018",
+    "estTime": 7,
+    "authors": [
+      {
+        "name": "Thomas Seng Hin",
+        "url": "https://www.linkedin.com/in/makzan/"
+      }
+    ],
+    "origin": {
+      "owner": "euroskills",
+      "source": "https://worldskillseurope.org/index.php/member-area/downloads/test-projects/test-projects-2018"
+    },
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "animation",
+      "responsive design",
+      "accessibility",
+      "data visualization"
+    ],
+    "publishedAt": "2026-06-09",
+    "status": "draft",
+    "isPrivate": false
   }
 ]
