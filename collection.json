@@ -2379,5 +2379,45 @@
     "publishedAt": "2026-06-09",
     "status": "published",
     "isPrivate": true
+  },
+  {
+    "name": "WSK2025 S17 - Module C",
+    "displayName": "Geek Marketplace REST API",
+    "description": "Build a REST API for a classifieds geek marketplace with role-based access control for users and moderators. Implement authentication, advert management with moderation workflows, category browsing, view tracking, and VIP/TOP promotion services. Design a normalized database schema with seed data, follow the provided OpenAPI specification, and document any new endpoints you add.",
+    "url": "https://github.com/marketable-it-skills/wsk2025-s17-module-c",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "WorldSkills Kazakhstan National Competition 2025",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Aizhan Ziyadanova",
+        "url": "https://github.com/aizhanzo"
+      },
+      {
+        "name": "Denis Popov",
+        "url": "https://github.com/denisvalentinovich"
+      }
+    ],
+    "technologies": [
+      "REST API",
+      "OpenAPI",
+      "SQL",
+      "Authentication"
+    ],
+    "tags": [
+      "backend",
+      "rest-api",
+      "authentication",
+      "database",
+      "api-design"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-05-01",
+    "isPrivate": false
   }
 ]
