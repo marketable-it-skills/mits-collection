@@ -2417,5 +2417,41 @@
     "status": "published",
     "publishedAt": "2026-05-01",
     "isPrivate": false
+  },
+  {
+    "name": "SSIF2026 S17 - Module D",
+    "displayName": "GIFTS Training Manager",
+    "description": "Build a standalone client-side training manager prototype for GIFTS (Global Institute for Transferring Skills) web technologies training preparation. The application loads training schedules and MITS task data from JSON files, displays a monthly calendar with day-detail modals, a weekly Kanban board for project tasks and evaluations, and a statistics page. Competitors must enforce business rules (120 training days, event limits, MITS collection references), persist state in the browser, and support JSON export and import. HTML, CSS, and JavaScript are required; a JavaScript framework may be used.",
+    "url": "https://github.com/marketable-it-skills/sfc2026-s17-module-d",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "SamsungSkills Invitational Friendly Challenge 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JavaScript Framework"
+    ],
+    "tags": [
+      "frontend",
+      "GIFTS",
+      "training manager",
+      "calendar",
+      "kanban"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-06-30",
+    "isPrivate": false
   }
 ]
