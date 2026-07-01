@@ -2453,5 +2453,43 @@
     "status": "draft",
     "publishedAt": "2026-06-30",
     "isPrivate": false
+  },
+  {
+    "name": "ES2027 HU S17 - Module C",
+    "displayName": "SkillShare Academy Content Service - REST API",
+    "description": "Build the SkillShare Academy Content Service for a public LMS ecosystem, delivering secure course and chapter APIs with shared HMAC-SHA256 authentication.",
+    "url": "https://github.com/hrustinszkiadam/s17-es2027-hu-national-final-module-c",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "EuroSkills 2027 HU National Final",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Skills IT Hungary",
+        "url": "https://www.skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "REST API",
+      "OpenAPI",
+      "Docker"
+    ],
+    "tags": [
+      "backend",
+      "api development",
+      "authentication",
+      "database",
+      "rest api"
+    ],
+    "isPrivate": false
   }
 ]
