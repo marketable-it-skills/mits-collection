@@ -2382,7 +2382,7 @@
     "name": "WSKZ2025 S17 - Module C",
     "displayName": "Geek Marketplace REST API",
     "description": "Build a REST API for a classifieds geek marketplace with role-based access control for users and moderators. Implement authentication, advert management with moderation workflows, category browsing, view tracking, and VIP/TOP promotion services. Design a normalized database schema with seed data, follow the provided OpenAPI specification, and document any new endpoints you add.",
-    "url": "https://github.com/marketable-it-skills/wskz2025-s17-module-c",
+    "url": "https://github.com/marketable-it-skills/s17-wskz2025-module-a",
     "skillDomainIds": [
       1
     ],
