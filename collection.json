@@ -2529,5 +2529,46 @@
     "status": "published",
     "publishedAt": "2026-07-02",
     "isPrivate": false
+  },
+  {
+    "name": "WSK2026 S17 - Module D",
+    "displayName": "Online Classifieds Interactive Frontend",
+    "description": "Build a responsive SPA for an online classifieds platform that consumes the Module C REST API. Implement authentication, profile management with password change, advert workflows with status handling, public advert browsing with filters, advert details with a carousel and phone reveal, and a modular VIP/TOP paid-services purchase interface using the provided OpenAPI specification and Postman collection.",
+    "url": "https://github.com/marketable-it-skills/s17-wskz2026-module-d",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "WorldSkills Kazakhstan National Competition 2025",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Aizhan Ziyadanova",
+        "url": "https://github.com/aizhanzo"
+      },
+      {
+        "name": "Denis Popov",
+        "url": "https://github.com/denisvalentinovich"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "SPA",
+      "REST API",
+      "OpenAPI",
+      "Client-side routing"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "api-integration",
+      "authentication",
+      "responsive design"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-07-07",
+    "isPrivate": false
   }
 ]
