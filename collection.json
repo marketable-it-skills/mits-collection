@@ -2610,5 +2610,41 @@
     "status": "published",
     "publishedAt": "2026-07-08",
     "isPrivate": false
+  },
+  {
+    "name": "WSKZ2025 S17 - Module E",
+    "displayName": "Web Technologies Speed Tasks",
+    "description": "Complete ten timed HTML, CSS, and JavaScript speed tasks within 2 hours. Solve rotating wheel animation, array sorting, CSS drip effect, to-do list with localStorage, live clock, button and menu animations, box-shadow generator, draggable box, and focus animation using provided starter files and reference videos.",
+    "url": "https://github.com/marketable-it-skills/s17-wskz2025-module-e",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "WorldSkills Kazakhstan National Competition 2025",
+    "estTime": 2,
+    "authors": [
+      {
+        "name": "Aizhan Ziyadanova",
+        "url": "https://github.com/aizhanzo"
+      },
+      {
+        "name": "Denis Popov",
+        "url": "https://github.com/denisvalentinovich"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "speed tasks"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-07-12",
+    "isPrivate": false
   }
 ]
