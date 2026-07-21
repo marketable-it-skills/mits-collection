@@ -2646,5 +2646,43 @@
     "status": "published",
     "publishedAt": "2026-07-12",
     "isPrivate": false
+  },
+  {
+    "name": "WSUKTC2026 S17 - Module A",
+    "displayName": "SkyDrop Marketing Website",
+    "description": "Build a three-page responsive marketing website for SkyDrop drone delivery. Implement the provided Home page mockup, interpret the About page wireframe using the brand identity, and design the Contact page with a validated form. Use HTML, CSS, and vanilla JavaScript with optional Tailwind or Bootstrap; meet accessibility, WAVE contrast, and responsive breakpoint requirements.",
+    "url": "https://github.com/marketable-it-skills/s17-wsuktc2026-module-a",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "WorldSkills UK Training Competition 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Val Adamescu",
+        "url": "https://github.com/valadam"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "static website",
+      "responsive design",
+      "accessibility",
+      "vanilla-javascript"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-07-21",
+    "isPrivate": false
   }
 ]
