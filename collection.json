@@ -2684,5 +2684,42 @@
     "status": "draft",
     "publishedAt": "2026-07-21",
     "isPrivate": false
+  },
+  {
+    "name": "CNBE2026 S17 - Module A",
+    "displayName": "ReClaim REST API",
+    "description": "Build the ReClaim lost-property REST API for Shanghai Pudong International Airport. Implement 30 JSON endpoints covering staff and passenger authentication, terminals, found items, claims, a scored match engine, dashboard statistics, and a passenger portal — using any server-side framework with MySQL, Bearer tokens, role-based terminal scoping, and exact status codes and error messages verified by a Bruno test suite.",
+    "url": "https://github.com/marketable-it-skills/s17-cnbe2026-module-a",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "CNB Exchange 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Val Adamescu",
+        "url": "https://github.com/valadam"
+      }
+    ],
+    "technologies": [
+      "REST API",
+      "MySQL",
+      "JSON",
+      "Bearer Authentication"
+    ],
+    "tags": [
+      "backend",
+      "rest-api",
+      "mysql",
+      "authentication",
+      "matching",
+      "bruno"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-07-26",
+    "isPrivate": false
   }
 ]
