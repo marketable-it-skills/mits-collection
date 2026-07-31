@@ -2721,5 +2721,45 @@
     "status": "published",
     "publishedAt": "2026-07-26",
     "isPrivate": false
+  },
+  {
+    "name": "CNBE2026 S17 - Module B - ReClaim Passenger Portal",
+    "displayName": "ReClaim Passenger Portal",
+    "description": "Build a consumer-facing Single Page Application for passengers to register, authenticate, file and track airport lost-property claims, withdraw eligible claims, and manage their profile through the provided ReClaim REST API.",
+    "url": "https://github.com/marketable-it-skills/s17-cnbe2026-module-b",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "CNB Exchange 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "SPA",
+      "REST API"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "rest-api-client",
+      "authentication",
+      "client-side-routing",
+      "responsive-design",
+      "lost-property"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-07-31",
+    "isPrivate": false
   }
 ]
