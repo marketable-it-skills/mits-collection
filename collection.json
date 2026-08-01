@@ -2766,7 +2766,7 @@
     "name": "CNBE2026 S17 - Module C",
     "displayName": "Old Shanghai Restaurant Ordering SPA",
     "description": "Build a mobile- and tablet-first Single Page Application for Old Shanghai Restaurant dine-in and take-away ordering. Implement QR table identification, menu browsing with stock-aware cart controls, persistent cart state, checkout with stock validation, order history, and a Third Normal Form database export as db_dump.sql.",
-    "url": "https://github.com/marketable-it-skills/s17-cnbe2026-module-c",
+    "url": "https://github.com/sisakz/s17-cnbe2026-module-c",
     "skillDomainIds": [
       1
     ],
@@ -2785,13 +2785,13 @@
       "HTML",
       "CSS",
       "JavaScript",
-      "SPA",
-      "MySQL",
-      "QR"
+      "MySQL"
     ],
     "tags": [
       "frontend",
-      "spa",
+      "backend",
+      "full-stack",
+      "SPA",
       "restaurant",
       "ordering",
       "qr-code",
@@ -2799,8 +2799,6 @@
       "cart",
       "database"
     ],
-    "status": "published",
-    "publishedAt": "2026-08-01",
     "isPrivate": false
   }
 ]
