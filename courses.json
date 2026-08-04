@@ -126,5 +126,45 @@
       "3": "Dark Mode + JS + About + Newsletter + Footer"
     },
     "isPrivate": false
+  },
+  {
+    "name": "React Forms Kit Tutorial",
+    "displayName": "MITS React Forms Kit Tutorial (WS2026 Prep)",
+    "description": "Build a fast, reusable React 19 forms kit with Vite and Tailwind CSS v4 — accessible FormField/FormMessage primitives, declarative validation, createFormAction with useActionState, and register/login/profile flows backed by a localStorage fake API.",
+    "url": "https://github.com/marketable-it-skills/mits-react-forms-kit-tutorial",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "authors": [
+      {
+        "name": "Zoltán Sisák",
+        "url": "https://hu.linkedin.com/in/zoltan-sisak"
+      }
+    ],
+    "technologies": [
+      "React",
+      "Vite",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "tags": [
+      "Forms",
+      "useActionState",
+      "Validation",
+      "Accessibility",
+      "WorldSkills",
+      "Git"
+    ],
+    "status": "draft",
+    "moduleNames": {
+      "1": "Project Setup + FormField + FormMessage",
+      "2": "Validation + Form Shell + Registration",
+      "3": "Login + Session + App Tabs",
+      "4": "Edit Profile + Auth Gating"
+    },
+    "isPrivate": false
   }
 ]
