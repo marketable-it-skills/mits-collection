@@ -2800,5 +2800,49 @@
       "database"
     ],
     "isPrivate": false
+  },
+  {
+    "name": "ES2027 HU S17 - Module D",
+    "displayName": "SkillShare Academy LMS Frontend (Learning Site)",
+    "description": "Build the SkillShare Academy LMS frontend, a single-page learning site that consumes the content service API to deliver sequential chapters, rich lesson content, and end-of-chapter quizzes.",
+    "url": "https://github.com/marketable-it-skills/s17-es2027-hu-national-final-module-d",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "EuroSkills 2027 HU National Final",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Skills IT Hungary",
+        "url": "https://www.skillsit.hu"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "TypeScript",
+      "SPA Framework",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "REST API"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "lms",
+      "responsive design",
+      "api-consumption",
+      "authentication",
+      "multi-frontend",
+      "styled content rendering",
+      "quiz functionality",
+      "error handling"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-08-04",
+    "isPrivate": false
   }
 ]
