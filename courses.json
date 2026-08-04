@@ -158,7 +158,7 @@
       "WorldSkills",
       "Git"
     ],
-    "status": "draft",
+    "status": "published",
     "moduleNames": {
       "1": "Project Setup + FormField + FormMessage",
       "2": "Validation + Form Shell + Registration",
