@@ -2723,7 +2723,7 @@
     "isPrivate": false
   },
   {
-    "name": "CNBE2026 S17 - Module B - ReClaim Passenger Portal",
+    "name": "CNBE2026 S17 - Module B",
     "displayName": "ReClaim Passenger Portal",
     "description": "Build a consumer-facing Single Page Application for passengers to register, authenticate, file and track airport lost-property claims, withdraw eligible claims, and manage their profile through the provided ReClaim REST API.",
     "url": "https://github.com/marketable-it-skills/s17-cnbe2026-module-b",
