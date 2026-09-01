@@ -3048,5 +3048,46 @@
     "status": "published",
     "publishedAt": "2026-09-01",
     "isPrivate": false
+  },
+  {
+    "name": "SITC2026 S17 - Module E",
+    "displayName": "SwapLoop ChargeRun Interactive Frontend App",
+    "description": "Build a fixed 1280x720 kiosk SPA for SwapLoop ChargeRun: a DOM/CSS grid minigame with energy, packs, potholes, pedestrians, and scoring, plus a canvas Charge Card studio with upload, signature, download, share, print, and Chrome installability.",
+    "url": "https://github.com/marketable-it-skills/s17-sitc2026-module-e",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "Skills IT Training Camp 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Oliver Mrakovics",
+        "url": "https://www.linkedin.com/in/0l1v3rr/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Canvas",
+      "SPA",
+      "PWA"
+    ],
+    "tags": [
+      "frontend",
+      "interactive-frontend",
+      "canvas",
+      "game",
+      "kiosk",
+      "swaploop",
+      "localstorage",
+      "web-share"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-09-01",
+    "isPrivate": false
   }
 ]
