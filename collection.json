@@ -3010,5 +3010,43 @@
     "status": "published",
     "publishedAt": "2026-09-01",
     "isPrivate": false
+  },
+  {
+    "name": "SITC2026 S17 - Module D",
+    "displayName": "SwapLoop Rider SPA",
+    "description": "Build a mobile-first SPA for SwapLoop riders: register and login, find stations, reserve swap or charging services, complete journeys via Activity with QR-emulator station deep links, and display pay-as-you-go receipts from the Module C API.",
+    "url": "https://github.com/marketable-it-skills/s17-sitc2026-module-d",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "Skills IT Training Camp 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      }
+    ],
+    "technologies": [
+      "JavaScript",
+      "SPA",
+      "REST",
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "frontend",
+      "spa",
+      "mobile-first",
+      "rest-api",
+      "qr",
+      "swaploop"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-09-01",
+    "isPrivate": false
   }
 ]
