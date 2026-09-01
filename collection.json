@@ -3129,5 +3129,46 @@
     "status": "published",
     "publishedAt": "2026-09-01",
     "isPrivate": false
+  },
+  {
+    "name": "SITC2026 S17 - Module G",
+    "displayName": "SwapLoop Testing (Cypress & PHPUnit)",
+    "description": "Write automated tests for a working SwapLoop multi-page rider UI (Cypress) and a partner billing service (PHPUnit). Competitors implement test bodies only; application source is provided and must not be changed.",
+    "url": "https://github.com/marketable-it-skills/s17-sitc2026-module-g",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "Skills IT Training Camp 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "JavaScript",
+      "PHPUnit",
+      "PHP",
+      "REST",
+      "Mocking"
+    ],
+    "tags": [
+      "testing",
+      "cypress",
+      "phpunit",
+      "e2e",
+      "unit-testing",
+      "mocking",
+      "swaploop",
+      "billing"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-09-01",
+    "isPrivate": false
   }
 ]
