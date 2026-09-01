@@ -3089,5 +3089,45 @@
     "status": "draft",
     "publishedAt": "2026-09-01",
     "isPrivate": false
+  },
+  {
+    "name": "SITC2026 S17 - Module F",
+    "displayName": "SwapLoop Public Website",
+    "description": "Build a responsive five-page SwapLoop public website with HTML and CSS only (CSS frameworks allowed, no JavaScript). Use the provided copy and assets for Home, How it works, Stations, For riders, and For fleets; meet fixed mobile/tablet/desktop breakpoints, sticky header, CSS-only station tabs, responsive timeline, overlapping station images, sticky rider prices, accessibility, SEO, and required transitions/animations.",
+    "url": "https://github.com/marketable-it-skills/s17-sitc2026-module-f",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "Skills IT Training Camp 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "tags": [
+      "frontend",
+      "design-implementation",
+      "html",
+      "css",
+      "responsive",
+      "accessibility",
+      "seo",
+      "static-website",
+      "animation"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-09-01",
+    "isPrivate": false
   }
 ]
