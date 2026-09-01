@@ -2880,5 +2880,47 @@
     "status": "published",
     "publishedAt": "2026-08-04",
     "isPrivate": false
+  },
+  {
+    "name": "SITC2026 S17 - Module A",
+    "displayName": "Mini Speed Test Projects",
+    "description": "Implement eight self-contained mini speed Test Projects linked from an index page: CSS-only floating label, progress animation and toast notifications, JavaScript number counters and an interactive turntable player, and PHP server-side form validation, cascading country and city selects from a JSON data file, and a JSON request logger endpoint.",
+    "url": "https://github.com/marketable-it-skills/s17-sitc2026-module-a",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "Skills IT Training Camp 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Zoltan Sisak",
+        "url": "https://www.linkedin.com/in/zoltan-sisak/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "JSON"
+    ],
+    "tags": [
+      "mini test projects",
+      "design implementation",
+      "frontend",
+      "backend",
+      "css animation",
+      "dom",
+      "audio",
+      "php",
+      "form validation",
+      "json"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-09-01",
+    "isPrivate": false
   }
 ]
