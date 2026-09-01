@@ -2922,5 +2922,49 @@
     "status": "published",
     "publishedAt": "2026-09-01",
     "isPrivate": false
+  },
+  {
+    "name": "SITC2026 S17 - Module B",
+    "displayName": "SwapLoop Admin SSR Application",
+    "description": "Build a server-rendered SwapLoop administration console: staff auth with four fixed roles, CRUD for stations/units/partners/drivers, partner billing from usage events and subscription plans, and an accountant finance report with table, native bar chart, and CSV export.",
+    "url": "https://github.com/marketable-it-skills/s17-sitc2026-module-b",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "Skills IT Training Camp 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Janos Hidvegi",
+        "url": "https://www.linkedin.com/in/j%C3%A1nos-hidv%C3%A9gi-3b19591b1/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Server-Side Rendering",
+      "SQL",
+      "MySQL"
+    ],
+    "tags": [
+      "backend",
+      "server-side rendering",
+      "authentication",
+      "authorization",
+      "roles",
+      "admin dashboard",
+      "mysql",
+      "crud",
+      "billing",
+      "csv-export",
+      "chart"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-09-01",
+    "isPrivate": false
   }
 ]
