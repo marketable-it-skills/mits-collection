@@ -166,5 +166,39 @@
       "4": "Edit Profile + Auth Gating"
     },
     "isPrivate": false
+  },
+  {
+    "name": "Frontend Testing Tutorial",
+    "displayName": "MITS Frontend Testing Tutorial (Cypress / Module G Part A)",
+    "description": "Learn Cypress end-to-end testing by implementing the full SwapLoop Module G Part A rider-UI suite — from first cy.visit to a green A1–A8 spec set against a read-only multi-page app.",
+    "url": "https://github.com/marketable-it-skills/mits-frontend-testing-tutorial",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "authors": [
+      {
+        "name": "Zoltán Sisák",
+        "url": "https://hu.linkedin.com/in/zoltan-sisak"
+      }
+    ],
+    "technologies": [
+      "Cypress"
+    ],
+    "tags": [
+      "E2E Testing"
+    ],
+    "status": "draft",
+    "moduleNames": {
+      "1": "Environment + Cypress Basics + First Login",
+      "2": "Complete Login Suite + Sign-in Helper",
+      "3": "Registration Flows (A2)",
+      "4": "Stations List + Detail & Reserve (A3–A4)",
+      "5": "Activity Journeys — Swap & Charging (A5–A6)",
+      "6": "QR Scan + HTTP Intercepts + Full Suite (A7–A8)"
+    },
+    "isPrivate": false
   }
 ]
