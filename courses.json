@@ -190,7 +190,7 @@
     "tags": [
       "E2E Testing"
     ],
-    "status": "draft",
+    "status": "published",
     "moduleNames": {
       "1": "Environment + Cypress Basics + First Login",
       "2": "Complete Login Suite + Sign-in Helper",
