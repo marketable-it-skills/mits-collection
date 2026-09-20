@@ -3170,5 +3170,38 @@
     "status": "published",
     "publishedAt": "2026-09-01",
     "isPrivate": false
+  },
+  {
+    "name": "IPTUK2026 S17 - Module A",
+    "displayName": "SkyDrop Marketing Website",
+    "description": "Build a three-page marketing website for SkyDrop, an autonomous drone delivery startup seeking business partners in new cities. Implement the Home page exactly from the provided mockup, interpret the About page wireframe using the brand identity, and design the Contact page from documented requirements, including a validated enquiry form. Use HTML, CSS, and vanilla JavaScript, with optional provided Tailwind or Bootstrap and no JavaScript UI frameworks or build step. The site must be responsive (480px, 768px, 1024px, scaling to 4K), include ARIA labels on interactive elements, and pass WAVE colour contrast checks.",
+    "url": "https://github.com/marketable-it-skills/s17-iptuk2026-module-a",
+    "skillDomainIds": [
+      1
+    ],
+    "languages": [
+      "EN"
+    ],
+    "competition": "International Pressure Test UK 2026",
+    "estTime": 3,
+    "authors": [
+      {
+        "name": "Val Adamescu",
+        "url": "https://www.linkedin.com/in/valadam/"
+      }
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tags": [
+      "frontend",
+      "design implementation",
+      "design"
+    ],
+    "status": "draft",
+    "publishedAt": "2026-09-20",
+    "isPrivate": false
   }
 ]
